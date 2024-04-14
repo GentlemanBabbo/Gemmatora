@@ -1,0 +1,12 @@
+<!--------------------- Custom Race Passives --------------------->
+
+new entry "Passive_RakshasaHidden"
+type "PassiveData"
+data "DisplayName" ""
+data "Description" ""
+data "DescriptionParams" "Distance(12)"
+data "Icon" "PassiveFeature_Darkvision"
+data "Properties" "Highlighted"
+data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(12)"
+
+<!--------------------- Rakshasas Spells --------------------->

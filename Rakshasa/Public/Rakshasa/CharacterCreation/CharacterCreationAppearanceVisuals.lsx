@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="CharacterCreationAppearanceVisuals">
+        <node id="root">
+            <children>
+		<!--Male Rakshasa Heads-->
+			<!-- M_FR_TIF_A --> I use these breaks <!-- --> to split my heads up so I know which is which
+				<node id="CharacterCreationAppearanceVisual"> RakshasaM - A
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="d7365fe9-3112-49b2-98aa-3b7fcf6aed4c"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="16c91840-e655-4cdb-a942-d48780df1865"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+
+		<!--Female Rakshasa Heads-->
+		
+        <!--Fake Genitals-->
+                <node id="CharacterCreationAppearanceVisual"> MS
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DefaultForBodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha12514d5g455ag4bd1ga00age3a4f753ab37" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="863401b8-a062-4c06-93f6-7b4e4b572cb1"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual"> FS
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultForBodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha12514d5g455ag4bd1ga00age3a4f753ab37" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="568a79b0-73c0-43f9-87f0-d66a8e228fce"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+
+        <!--Tails-->
+      
+      </children>
+    </node>
+  </region>
+</save>
