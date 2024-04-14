@@ -2499,7 +2499,7 @@
 						</node>	
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="772db4c0-c4d3-4cae-868d-361cf0fb00cb" />
+							<attribute id="MaterialID" type="FixedString" value="e6e98efc-913f-4ecf-a99f-84e09524025a" />
 							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_A.5CAT_Head_A_Fur_Mesh.4" />
 						</node>
 						<node id="Objects">

@@ -956,7 +956,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> Fur
-							<attribute id="MaterialID" type="FixedString" value="3a99fb02-9f5d-4b04-9072-7de8670f2411" />
+							<attribute id="MaterialID" type="FixedString" value="e6e98efc-913f-4ecf-a99f-84e09524025a" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_NKD_Body.2_CHIM_Fur_Body.1" />
 						</node>
 					</children>
