@@ -13,12 +13,12 @@
                         <attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
                         <attribute id="ClothColliderResourceID" type="FixedString" value="" />
                         <attribute id="HairType" type="uint8" value="0" />
-                        <attribute id="ID" type="FixedString" value="de011251-73af-4e25-9c10-6971d2418d9c" />
+                        <attribute id="ID" type="FixedString" value="f4b40853-4d5d-422c-ba85-a54e09049276" />
                         <!-- ^ Make a new UUID and make sure it matches VisualResourceID in CharacterCreationAppearanceVisuals. -->
                         <attribute id="Initialized" type="bool" value="True" />
                         <attribute id="Localized" type="bool" value="False" />
                         <attribute id="MaterialType" type="uint8" value="0" />
-                        <attribute id="Name" type="LSString" value="Orthon_HORN_A" />
+                        <attribute id="Name" type="LSString" value="Raksha_HORN_A" />
                         <!-- ^ Name of your GR2. -->
                         <attribute id="NeedsSkeletonRemap" type="bool" value="False" />
                         <!-- ^ Change to false if not auto-snap. -->
@@ -31,10 +31,10 @@
                         <attribute id="Slot" type="FixedString" value="Horns" />
                         <!-- ^ This should stay as Hair... unless you're using my template to make horns or something. No judgement. :) -->
                         <attribute id="SoftbodyResourceID" type="FixedString" value="" />
-                        <attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_RAKSHASA_Horns/Rakshasa_HORN_A.GR2" />
+                        <attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_RAKSHASA_Horns/Rakshasa_HORN_B.GR2" />
                         <!-- ^ Make sure this matches your folder structure. -->
                         <attribute id="SupportsVertexColorMask" type="bool" value="False" />
-                        <attribute id="Template" type="FixedString" value="Generated/Public/Rakshasa/[PAK]_RAKSHASA_Horns/Rakshasa_HORN_A.Dummy_Root.0" />
+                        <attribute id="Template" type="FixedString" value="Generated/Public/Rakshasa/[PAK]_RAKSHASA_Horns/Rakshasa_HORN_B.Dummy_Root.0" />
                         <!-- ^ Make sure this matches your folder structure, but with .Dummy_Root.0 at the end instead. -->
                         <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
                         <children>
@@ -43,7 +43,7 @@
                                 <attribute id="LOD" type="uint8" value="0" />
                                 <attribute id="MaterialID" type="FixedString" value="9145c306-a9be-4188-89fb-3da2813d269f" />
                                 <!-- ^ Use from a hair material you like. -->
-                                <attribute id="ObjectID" type="FixedString" value="Rakshasa_HORN_A.GR2.8_ORTHON_Horns_A_Mesh.0" />
+                                <attribute id="ObjectID" type="FixedString" value="Rakshasa_HORN_B.GR2.8_ORTHON_Horns_A_Mesh.0" />
                                 <!-- ^ Make sure this matches your GR2 name. The number at the end needs to be increased by 1 for each new Objects node you create. -->
                                 <attribute id="Physics" type="FixedString" value="" />
                                 <attribute id="Slot" type="FixedString" value="" />
