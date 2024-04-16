@@ -18,7 +18,7 @@
                         <attribute id="Initialized" type="bool" value="True" />
                         <attribute id="Localized" type="bool" value="False" />
                         <attribute id="MaterialType" type="uint8" value="0" />
-                        <attribute id="Name" type="LSString" value="Orthon_HORN_A" />
+                        <attribute id="Name" type="LSString" value="Rakshasa_HORN_A" />
                         <!-- ^ Name of your GR2. -->
                         <attribute id="NeedsSkeletonRemap" type="bool" value="False" />
                         <!-- ^ Change to false if not auto-snap. -->
