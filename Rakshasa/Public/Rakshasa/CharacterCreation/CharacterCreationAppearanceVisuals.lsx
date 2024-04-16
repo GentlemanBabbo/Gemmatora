@@ -10,7 +10,7 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+                    			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
 					<attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
 					The UUID for the race you're making the head for. See below for a list.
@@ -19,7 +19,20 @@
 					<attribute id="VisualResource" type="guid" value="16c91840-e655-4cdb-a942-d48780df1865"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
-
+			<!-- M_FR_TIF_A --> I use these breaks <!-- --> to split my heads up so I know which is which
+				<node id="CharacterCreationAppearanceVisual"> RakshasaM - B
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                    			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="3573feb8-a1bb-4faf-8192-492261134a90"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="fb78413e-f88f-4bb4-954f-d1cbab31693c"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
 		<!--Female Rakshasa Heads-->
 		
         <!--Fake Genitals-->
