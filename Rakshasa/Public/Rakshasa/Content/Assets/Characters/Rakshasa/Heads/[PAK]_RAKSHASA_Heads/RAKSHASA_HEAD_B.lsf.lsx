@@ -2499,13 +2499,8 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="3757a415-9751-535f-52a7-4afc0a51c26f" />
-							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_B.6CAT_Head_A_Whiskers_Mesh.4" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="e6e98efc-913f-4ecf-a99f-84e09524025a" />
-							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_B.5CAT_Head_A_Fur_Mesh.5" />
+							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_B.5CAT_Head_A_Fur_Mesh.4" />
 						</node>
 					</children>
 				</node>
