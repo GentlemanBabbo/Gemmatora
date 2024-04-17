@@ -14,11 +14,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="7b7d8ec9-cab6-4b8f-8799-a8669519ea82" />
-					<attribute id="Name" type="LSString" value="RAKSHASA_M_NKD_Tail_HMVY" />
+					<attribute id="Name" type="LSString" value="RAKSHASA_M_NKD_Tail_PM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Tails/RAKSHASA_M_NKD_Tail_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Tails/RAKSHASA_M_NKD_Tail_PM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="RAKSHASA_M_NKD_Tail_HMVY" />
+					<attribute id="Template" type="FixedString" value="RAKSHASA_M_NKD_Tail_PM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
@@ -27,11 +27,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="f9f52549-32b2-4365-a7a2-36559b67ee74" />
-					<attribute id="Name" type="LSString" value="RAKSHASA_M_NKD_Tail_CLEA" />
+					<attribute id="Name" type="LSString" value="RAKSHASA_M_NKD_Tail_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Tails/RAKSHASA_M_NKD_Tail_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Tails/RAKSHASA_M_NKD_Tail_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="RAKSHASA_M_NKD_Tail_CLEA" />
+					<attribute id="Template" type="FixedString" value="RAKSHASA_M_NKD_Tail_BM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
@@ -60,7 +60,7 @@
 					<attribute id="ID" type="FixedString" value="7c1bd723-127c-4bca-9a84-6c40c04dd35a" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="RAKSHASA_MS_NKD_Tail" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Body.lsf" />
+                   			<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
 						<node id="ScalarParameters">
@@ -373,7 +373,7 @@
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="7b7d8ec9-cab6-4b8f-8799-a8669519ea82" />
-							<attribute id="ParameterName" type="FixedString" value="HMVY" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
@@ -394,7 +394,7 @@
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="f9f52549-32b2-4365-a7a2-36559b67ee74" />
-							<attribute id="ParameterName" type="FixedString" value="CLEA" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
