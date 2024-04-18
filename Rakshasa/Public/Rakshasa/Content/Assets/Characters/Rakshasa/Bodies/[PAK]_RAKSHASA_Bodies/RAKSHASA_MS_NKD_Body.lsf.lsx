@@ -10,7 +10,7 @@
 					<attribute id="ID" type="FixedString" value="68b42e1a-f68c-44cf-8282-cead436ce84f" /> Generate new UUID
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="COLORABLE_RAKSHASA_MAT" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_HMVY_CLEA_GM_Detail_MakeUp.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_GM.lsf" />
 					<children>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="1" />
