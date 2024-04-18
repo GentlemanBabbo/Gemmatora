@@ -176,11 +176,6 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="Tail" />
-							<attribute id="VisualResource" type="FixedString" value="51196b93-2dba-f6a9-1fbe-bc78df37e160" />
-						</node>
-						<node id="Slots">
-							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
 							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" />
 						</node>
