@@ -1574,9 +1574,17 @@
 					<attribute id="ID" type="FixedString" value="4772064c-7400-47d9-b3cd-872f5ce58dff" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="RAKSHASA_MS_NKD_COLORABLE_SKIN_TigerHead" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3_GM.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144678138029277484" />
 					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="1" />
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="GlowMultiplier" />
+							<attribute id="Value" type="float" value="1" />
+						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0.7" />
 							<attribute id="Enabled" type="bool" value="False" />
@@ -1662,6 +1670,13 @@
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="8b9b981a-050e-4349-bc16-142c923058c9" />
 							<attribute id="ParameterName" type="FixedString" value="BaseColor_NonSkin" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="ed6d6c4e-b110-44e9-9ff3-5fd1af78bb13" />
+							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -2463,6 +2478,20 @@
 	<region id="TextureBank">
 		<node id="TextureBank">
 			<children>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="ed6d6c4e-b110-44e9-9ff3-5fd1af78bb13" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Rakshasa_TigerHead_GM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Head/Rakshasa_TigerHead_GM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Rakshasa_TigerHead_GM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757765" />
+				</node>		
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
