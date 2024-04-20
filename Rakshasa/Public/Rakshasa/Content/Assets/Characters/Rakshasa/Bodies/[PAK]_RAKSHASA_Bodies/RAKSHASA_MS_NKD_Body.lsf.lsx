@@ -499,7 +499,7 @@
 						</node>
 					</children>
 				</node>
-			<!--Tiger Male Fur-->
+			<!--Tiger Male Arm-->
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="38e16550-0cf8-49ad-b2fa-65d296efbd4c" />
@@ -611,6 +611,7 @@
 						</node>
 					</children>
 				</node>
+			<!--Tiger Male Fur-->
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="772db4c0-c4d3-4cae-868d-361cf0fb00cb" />
