@@ -10,16 +10,8 @@
 					<attribute id="ID" type="FixedString" value="68b42e1a-f68c-44cf-8282-cead436ce84f" /> Generate new UUID
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="COLORABLE_RAKSHASA_MAT" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+                    			<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
 					<children>
-						<node id="ScalarParameters">
-							<attribute id="BaseValue" type="float" value="15" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
-							<attribute id="ParameterName" type="FixedString" value="DetailNormalTiling" />
-							<attribute id="Value" type="float" value="30" />
-						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0.7" />
 							<attribute id="Enabled" type="bool" value="False" />
@@ -27,22 +19,6 @@
 							<attribute id="GroupName" type="FixedString" value="" />
 							<attribute id="ParameterName" type="FixedString" value="Armor_Dirt_Sharpness" />
 							<attribute id="Value" type="float" value="0.7" />
-						</node>
-						<node id="ScalarParameters">
-							<attribute id="BaseValue" type="float" value="1" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
-							<attribute id="ParameterName" type="FixedString" value="NonSkinMetalness" />
-							<attribute id="Value" type="float" value="1" />
-						</node>
-						<node id="ScalarParameters">
-							<attribute id="BaseValue" type="float" value="1" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
-							<attribute id="ParameterName" type="FixedString" value="NonSkin_Weight" />
-							<attribute id="Value" type="float" value="1" />
 						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0.5" />
@@ -85,13 +61,13 @@
 							<attribute id="Value" type="float" value="0" />
 						</node>
 						<node id="ScalarParameters">
-							<attribute id="BaseValue" type="float" value="1" />
-							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="" />
 							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
 							<attribute id="Value" type="float" value="1" />
-						</node>	
+						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
@@ -100,7 +76,7 @@
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="Texture Map" />
 							<attribute id="ID" type="FixedString" value="6415b764-de2e-430a-a7be-a56f1061c7d3" />
@@ -108,6 +84,13 @@
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="ed404e27-2a14-46b9-88f0-1c57d35a970e" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="Texture Map" />
 							<attribute id="ID" type="FixedString" value="2ded86ad-cd6f-4ba7-a61d-f9578d1aab57" />
@@ -680,6 +663,19 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="ed404e27-2a14-46b9-88f0-1c57d35a970e" />
+					<attribute id="Name" type="LSString" value="Rakshasa_TigerBody_PM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Body/Rakshasa_M_Body/Rakshasa_TigerBody_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Rakshasa_TigerBody_PM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="23c60634-a777-43b7-8a34-83391a244b82" />
 					<attribute id="Name" type="LSString" value="Rakshasa_TigerBody_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
@@ -779,11 +775,6 @@
 							<attribute id="LOD" type="uint8" value="0" /> Body
 							<attribute id="MaterialID" type="FixedString" value="68b42e1a-f68c-44cf-8282-cead436ce84f" />
 							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_NKD_Body.DGB_M_NKD_Body_A_Mesh.0" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" /> Fur
-							<attribute id="MaterialID" type="FixedString" value="38e16550-0cf8-49ad-b2fa-65d296efbd4c" />
-							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_NKD_Body.DGB_M_NKD_Body_Arm_Mesh.1" />
 						</node>
 					</children>
 				</node>
