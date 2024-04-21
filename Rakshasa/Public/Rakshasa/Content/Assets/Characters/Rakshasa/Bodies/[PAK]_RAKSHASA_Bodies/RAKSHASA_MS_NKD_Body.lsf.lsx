@@ -883,7 +883,7 @@
 					<children>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="1.1618" />
-							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="" />
 							<attribute id="ParameterName" type="FixedString" value="DitherOffset" />
