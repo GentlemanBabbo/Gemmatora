@@ -34,7 +34,19 @@
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 		<!--Female Rakshasa Heads-->
-		
+				<node id="CharacterCreationAppearanceVisual"> RakshasaM - B
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                    			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="28a68068-d9d2-4fb3-90b2-c7099b812c94"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="b737e7d2-a063-4e5f-a9df-d1d3a2df4860"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
         <!--Fake Genitals-->
                 <node id="CharacterCreationAppearanceVisual"> MS
                     <attribute id="BodyShape" type="uint8" value="0"/>
