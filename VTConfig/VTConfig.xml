@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TileSet Version="2" Name="Rakshasa_TigerBody">
+<TileSet Version="2" Name="Tigerkin_VT">
 	<Paths>
 		<SourceTextures>Public\Rakshasa\Assets\Textures</SourceTextures>
 		<VirtualTextures>Public\Rakshasa\Assets\VirtualTextures</VirtualTextures>
@@ -18,6 +18,8 @@
 		</Texture>
 		<Texture Name="6994de17dc9f4ea682b54bed62c5cc09">
 			<Layer Name="Albedo" Source="Rakshasa_TigerBody_BMA.dds" />
+			<Layer Name="Normal" Source="Rakshasa_TigerBody_NM.dds" />
+			<Layer Name="Physical" Source="Rakshasa_TigerBody_BMA_Blank.dds" />
 		</Texture>
 	</Textures>
 	
