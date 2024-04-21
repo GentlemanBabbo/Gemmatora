@@ -24,7 +24,7 @@
 		<Texture Name="6994de17dc9f4ea682b54bed62c5cc09">
 			<Layer Name="Albedo" Source="Rakshasa_TigerBody_BMA.dds" />
 			<Layer Name="Normal" Source="Rakshasa_TigerBody_NM.dds" />
-			<Layer Name="Physical" Source="Rakshasa_TigerBody_BMA_Blank.dds" />
+			<Layer Name="Physical" Source="Rakshasa_TigerBody_BMA.dds" />
 		</Texture>
 	</Textures>
 	
