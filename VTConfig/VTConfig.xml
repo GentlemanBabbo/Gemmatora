@@ -11,6 +11,11 @@
 			<Layer Name="Normal" Source="Rakshasa_TigerBody_NM.dds" />
 			<Layer Name="Physical" Source="Rakshasa_TigerBody_HMVY.dds" />
 		</Texture>
+		<Texture Name="35d50f5eb29e4eea89d61ca04b517495">
+			<Layer Name="Albedo" Source="Rakshasa_TigerHead_CLEA.dds" />
+			<Layer Name="Normal" Source="Rakshasa_TigerHead_NM.dds" />
+			<Layer Name="Physical" Source="Rakshasa_TigerHead_HMVY.dds" />
+		</Texture>
 		<Texture Name="6994de17dc9f4ea682b54bed62c5cc09">
 			<Layer Name="Albedo" Source="Rakshasa_TigerBody_BMA.dds" />
 		</Texture>
