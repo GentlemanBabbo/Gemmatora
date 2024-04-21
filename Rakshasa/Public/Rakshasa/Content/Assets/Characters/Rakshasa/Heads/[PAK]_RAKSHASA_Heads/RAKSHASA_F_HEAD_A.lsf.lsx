@@ -7,17 +7,17 @@
 				<node id="Resource">
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="DynamicPhysicsResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="ID" type="FixedString" value="ff65e770-9415-4ce2-9608-dfb6752491be" />
+					<attribute id="ID" type="FixedString" value="892a7ad1-3d34-46a6-a027-5dff2ec9694b" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="Rakshasa_MS_Head_Base" />
+					<attribute id="Name" type="LSString" value="Rakshasa_FS_Head_Base" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Head/Rakshasa_M_Head_base.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Head/Rakshasa_F_Head_base.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Head/Rakshasa_M_Head_base.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Head/Rakshasa_F_Head_base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="Bones">
@@ -2570,9 +2570,9 @@
 		<node id="AnimationSetBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="d1779663-01ea-436b-b01b-6c25a1247bf9" />
+					<attribute id="ID" type="FixedString" value="d3c086ca-7633-4401-8161-424ac29ee0ab" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Rakshasa_M_Head_B" />
+					<attribute id="Name" type="LSString" value="Rakshasa_F_Head_A" />
 					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SourceFile" type="LSString" value="" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
@@ -2605,18 +2605,18 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="fb78413e-f88f-4bb4-954f-d1cbab31693c" />
+					<attribute id="ID" type="FixedString" value="b737e7d2-a063-4e5f-a9df-d1d3a2df4860" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="Rakshasa_M_Head_B" />
+					<attribute id="Name" type="LSString" value="Rakshasa_F_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="658fd10c-b8b2-4e47-214e-959e591b6881" />
+					<attribute id="SkeletonResource" type="FixedString" value="753a5f47-65dc-a6e5-7c0f-0a2572e25ac6" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Head/Rakshasa_M_Head_B.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Head/Rakshasa_F_Head_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Head/Rakshasa_M_Head_B.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Rakshasa/[PAK]_Rakshasa_Head/Rakshasa_F_Head_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
 						<node id="AnimationSetOverrides">
@@ -2637,27 +2637,27 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="4772064c-7400-47d9-b3cd-872f5ce58dff" />
-							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_B.1PANTHER_Sabre_A_Head_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="Rakshasa_F_Head_A.1PANTHER_Sabre_A_Head_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_B.2PANTHER_Sabre_A_Eyeshadow_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="Rakshasa_F_Head_A.2PANTHER_Sabre_A_Eyeshadow_Mesh.1" />
 						</node>	
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
-							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_B.3PANTHER_Sabre_A_Eye_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="Rakshasa_F_Head_A.3PANTHER_Sabre_A_Eye_Mesh.2" />
 						</node>						
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="d96192bb-4233-af3d-5510-fff51cc4ee43" />
-							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_B.2CAT_Head_A_Mouth_Interior_Mesh.3" />
+							<attribute id="ObjectID" type="FixedString" value="Rakshasa_F_Head_A.2CAT_Head_A_Mouth_Interior_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="e6e98efc-913f-4ecf-a99f-84e09524025a" />
-							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_B.5CAT_Head_A_Fur_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="Rakshasa_F_Head_A.5CAT_Head_A_Fur_Mesh.4" />
 						</node>
 					</children>
 				</node>
