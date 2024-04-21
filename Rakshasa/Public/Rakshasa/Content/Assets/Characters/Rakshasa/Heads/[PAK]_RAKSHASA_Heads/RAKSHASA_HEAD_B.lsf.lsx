@@ -1571,7 +1571,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="4772064c-7400-47d9-b3cd-872f5ce58dff" />
+					<attribute id="ID" type="FixedString" value="1e8aa187-8744-4e9e-8552-15e24cf6e334" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="RAKSHASA_MS_NKD_COLORABLE_SKIN_TigerHead" />
                     			<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/\CHAR_Skin_Head_v3.lsf" />
@@ -2636,7 +2636,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="4772064c-7400-47d9-b3cd-872f5ce58dff" />
+							<attribute id="MaterialID" type="FixedString" value="1e8aa187-8744-4e9e-8552-15e24cf6e334" />
 							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_B.1PANTHER_Sabre_A_Head_Mesh.0" />
 						</node>
 						<node id="Objects">
