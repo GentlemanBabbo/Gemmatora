@@ -152,7 +152,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e75c0f9c-9f3e-4a79-a95b-1c171be111a9" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="e031f565-bcf3-44ed-984a-328633552747" />
 										</node>										
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
