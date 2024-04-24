@@ -1,12 +1,38 @@
-<!--------------------- Custom Race Passives --------------------->
+<!--------------------- Gemma Tora Passives --------------------->
 
 new entry "Passive_RakshasaHidden"
 type "PassiveData"
 data "DisplayName" ""
 data "Description" ""
-data "DescriptionParams" "Distance(12)"
+data "DescriptionParams" "Distance(24)"
 data "Icon" "PassiveFeature_Darkvision"
 data "Properties" "Highlighted"
-data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(12)"
+data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(24)"
 
-<!--------------------- Rakshasas Spells --------------------->
+new entry "GT_TigerTraining"
+type "PassiveData"
+data "DisplayName" "h73f2bdb1gd71ag4273gb7ddg773b161a2537;2"
+data "Description" "h1af0953ag7d96g4541ga9a8g935992e0e764;1"
+data "Icon" "PassiveFeature_Generic_Threat"
+data "Properties" "Highlighted;ForceShowInCC"
+data "Boosts" "Proficiency(LightHammers); Proficiency(Warhammers); Proficiency(Mauls)"
+
+new entry "FeyAncestry"
+type "PassiveData"
+data "DisplayName" "h3d2adba5ga7fcg4572g8c83g094ec7605e29;1"
+data "Description" "hffa55deeg740dg4de2ga019g450f56abb3fa;1"
+data "Icon" "PassiveFeature_FeyAncestry"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SLEEP);StatusImmunity(POISON_DROW_CONDITION);Tag(CHARMED_ADV)"
+
+new entry "GTPassive_CrystalSkin"
+type "PassiveData"
+data "DisplayName" "h1eb9b4f0g3c95g4e74g86e2g72f51f719292;2"
+data "Description" "hcc2e945eg9e57g47c6g96fegf69f429d9dbf;3"
+data "Icon" "PassiveFeature_UnarmoredDefense_Barbarian"
+data "Properties" "Highlighted"
+data "BoostContext" "OnEquip;OnCreate"
+data "BoostConditions" "not WearingArmor(context.Source)"
+data "Boosts" "ACOverrideFormula(12,true,Strength,Constitution)"
+
+<!--------------------- Gemma Tora Spells --------------------->
