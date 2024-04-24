@@ -7,7 +7,7 @@
 			<attribute id="DisplayDescription" type="TranslatedString" handle="h76c94d1dg9605g4056g9424g3042b4475319" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="h519b3f0bgbc63g47aega179gf7569eb078a2" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Ak'chazar" />
+			<attribute id="Name" type="FixedString" value="Sapphire Tora" />
 			<attribute id="UUID" type="guid" value="0153647f-3da2-4c19-95f1-1d34bbfeae7d" />
 			<children>
 				<node id="Categories">
