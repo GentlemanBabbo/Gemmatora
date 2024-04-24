@@ -4,7 +4,7 @@
   <region id="CharacterCreationPresets">
     <node id="root">
       <children>
-				<node id="CharacterCreationPreset">
+				<node id="CharacterCreationPreset"> Sapphire
           <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
           <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
           <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
@@ -26,6 +26,78 @@
           <attribute id="RootTemplate" type="guid" value="624912e5-0a87-4286-96a6-01d5712af902"/>
 					<attribute id="SubRaceUUID" type="guid" value="6aa62e67-914a-46a0-b1be-5ae28c33bac0"/>
           <attribute id="UUID" type="guid" value="48636f50-0849-413f-bf10-a4bc24e251f6"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<node id="CharacterCreationPreset"> Jade
+          <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+          <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/> base Custom Main race
+          <attribute id="RootTemplate" type="guid" value="5c2704ce-649e-46a9-aea6-773774e8f0be"/> roottemplates 
+					<attribute id="SubRaceUUID" type="guid" value="94bec64b-7186-49c5-a1a6-b6e72bef2705"/>  your subrace uuid
+          <attribute id="UUID" type="guid" value="de4de2a4-0fd6-4adf-a3e8-d2e0664d2349"/> must be unique
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> do not touch
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
+          <attribute id="RootTemplate" type="guid" value="c483830f-02eb-48e5-af4c-2ea2d6dd6bb5"/>
+					<attribute id="SubRaceUUID" type="guid" value="94bec64b-7186-49c5-a1a6-b6e72bef2705"/>
+          <attribute id="UUID" type="guid" value="d7f04b90-547d-48c4-9e0b-36d2fc35a044"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<node id="CharacterCreationPreset"> Ruby
+          <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+          <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/> base Custom Main race
+          <attribute id="RootTemplate" type="guid" value="c68f130b-1b73-4591-8d77-bd776c91bc0e"/> roottemplates 
+					<attribute id="SubRaceUUID" type="guid" value="382d4e23-7d92-4e6a-960e-88a7c8741db2"/>  your subrace uuid
+          <attribute id="UUID" type="guid" value="9abc1218-d33b-454f-a40d-a24034c34003"/> must be unique
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> do not touch
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
+          <attribute id="RootTemplate" type="guid" value="a165d1fc-e1a7-4970-b664-9a0a9076abcc"/>
+					<attribute id="SubRaceUUID" type="guid" value="382d4e23-7d92-4e6a-960e-88a7c8741db2"/>
+          <attribute id="UUID" type="guid" value="9310599e-87b4-42f5-91aa-e20d657dd809"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<node id="CharacterCreationPreset"> Topaz
+          <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+          <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/> base Custom Main race
+          <attribute id="RootTemplate" type="guid" value="3e3f6cbd-24a3-4d23-8dd0-93d3621f0741"/> roottemplates 
+					<attribute id="SubRaceUUID" type="guid" value="6698852b-2cd2-443d-be95-c8d6ba1de248"/>  your subrace uuid
+          <attribute id="UUID" type="guid" value="2b763dec-c5c9-4ca7-aee7-53828c202eff"/> must be unique
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> do not touch
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
+          <attribute id="RootTemplate" type="guid" value="fce132d1-70ac-48c6-a9be-82c43def1cb7"/>
+					<attribute id="SubRaceUUID" type="guid" value="6698852b-2cd2-443d-be95-c8d6ba1de248"/>
+          <attribute id="UUID" type="guid" value="bf13f7cb-9c40-473e-b81e-0aab6b0f0381"/>
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
       </children>
