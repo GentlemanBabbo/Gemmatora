@@ -6,7 +6,7 @@
       <children>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Rakshasa" /> just an internal name
+                  <attribute id="Name" type="LSString" value="Gemma Tora" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="Passive_RakshasaHidden" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="SelectSkills(32155548-7ee2-4ba2-a772-334302fdbab0,2)" />see below for explanation
@@ -16,7 +16,7 @@
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="3" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Rakshasa" /> just an internal name
+                  <attribute id="Name" type="LSString" value="Gemma Tora" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
@@ -26,13 +26,43 @@
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Ak'chazar" /> just an internal name
+                  <attribute id="Name" type="LSString" value="Sapphire Tora" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="c2e560b2-1d93-48dc-85c6-27cae54bbf5a" /> Always use this one for races.lsx, says this progression node is for Sub Race
                   <attribute id="UUID" type="guid" value="daf51ec8-b986-49c3-8c1d-bbff68705f7d" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Jade Tora" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="9af90924-7c97-436b-bc8f-65f927112fed" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="e717d4be-8efa-4906-87b3-2bf24bbaaf85" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Ruby Tora" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="b5298439-f19a-4ba6-b508-917f19f6f451" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="94e0051b-7b7a-42ce-b57f-f0bcf4354221" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Topaz Tora" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="336c54ca-912e-4ced-98f4-f6453546dda6" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="fe8b18d4-c74e-4191-b568-816cd141dbca" />  this one must be unique
           </node>
       </children>
     </node>
