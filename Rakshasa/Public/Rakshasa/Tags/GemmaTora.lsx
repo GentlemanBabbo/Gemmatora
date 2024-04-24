@@ -7,7 +7,7 @@
 			<attribute id="DisplayDescription" type="TranslatedString" handle="hf6327eabgcd15g4a95gb92cg04dafdecf4ac" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="h81a6c859gdca3g4485g8678g835daa3544bb" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Rakshasa" />
+			<attribute id="Name" type="FixedString" value="Gemma Tora" />
 			<attribute id="UUID" type="guid" value="246c52c3-eee7-4ac8-95b6-9cbe0e174a4d" />
 			<children>
 				<node id="Categories">
