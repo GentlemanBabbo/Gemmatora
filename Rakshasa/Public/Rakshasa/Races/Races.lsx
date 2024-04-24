@@ -2931,6 +2931,7 @@
             <attribute id="UUID" type="guid" value="94bec64b-7186-49c5-a1a6-b6e72bef2705" /> Race UUID, keep this for adding hairs etc
                      <children>
                     </children>
+        </node>
         <node id="Race">
             <attribute id="Description" type="TranslatedString" handle="haf0f1409g3926g4f95g9452g51908545c26f" version="1" />   description sub race
             <attribute id="DisplayName" type="TranslatedString" handle="h80432493g6905g4d1bgb698ga4fad2bb8ba7" version="1" />   name subrace
