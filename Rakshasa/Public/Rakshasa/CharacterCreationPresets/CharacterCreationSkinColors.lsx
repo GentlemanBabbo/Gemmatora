@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="CharacterCreationSkinColors">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h57b99861ga396g4f9fga497g659ede53490d" version="5"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b27367c4-9151-56af-afcc-7ac81ae06dd2"/>
+                    <attribute id="Name" type="FixedString" value="Black 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF717171"/>
+                    <attribute id="UUID" type="guid" value="acf430e6-ef04-474c-b9e0-ce48b78ca9b3"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h500b7300g93a5g4468gb930gf0b857e038f8" version="4"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="8347c2d6-b4ce-3af5-7ad5-373735560975"/>
+                    <attribute id="Name" type="FixedString" value="Black 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF6D6D6D"/>
+                    <attribute id="UUID" type="guid" value="7492c4e9-7c39-4648-82be-6c14e3c15b7f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="heefaf526gc4bag4dafga0e1gd45469665235" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="2d5b2973-f015-5719-4133-4f5b49259707"/>
+                    <attribute id="Name" type="FixedString" value="Black 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF696969"/>
+                    <attribute id="UUID" type="guid" value="c924b747-a36c-4e3e-8931-6456649df8e7"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h19a44911g704ag4f67gaa95g160da75101a5" version="4"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="23c424e4-8e65-3186-2793-43826b2b97c5"/>
+                    <attribute id="Name" type="FixedString" value="Black 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF636363"/>
+                    <attribute id="UUID" type="guid" value="e22411cb-480e-470c-8615-c33f8f8b13ea"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb859afc4gca68g42a0g83dfgb0d935ace3fc" version="4"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="7c7abf66-250b-ffd6-6fbf-597fb546005d"/>
+                    <attribute id="Name" type="FixedString" value="Black 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF5F5F5F"/>
+                    <attribute id="UUID" type="guid" value="04ab5b6b-222b-41d4-ba5b-0ce09bc8ec6a"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1a95a420gee0cg4aeeg9d8bg6ac08dc6dc36" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="786eccc7-60b7-2fa0-06ee-ffef758d5f9b"/>
+                    <attribute id="Name" type="FixedString" value="Black 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF5A5A5A"/>
+                    <attribute id="UUID" type="guid" value="b1faaa8c-a630-43a5-9d1b-2badfd741d85"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h18e65db7g625bg4bbegbb07g4f6a11614428" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="9f6bbec9-da58-a52b-bf3d-6385cd8a8397"/>
+                    <attribute id="Name" type="FixedString" value="Black 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF555555"/>
+                    <attribute id="UUID" type="guid" value="9299161d-35f7-4d2d-8500-bb1d2094695a"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h280066bfg0260g4154g8f0cg856d0573b99b" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="50fda103-ebe4-cd41-9a24-1004abf55f2d"/>
+                    <attribute id="Name" type="FixedString" value="Black 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF4F4F4F"/>
+                    <attribute id="UUID" type="guid" value="b8896207-5457-4b99-b628-baa6f0b34c78"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8e0dc442g17efg4d8eg95cegc9b3c7e26517" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="cb6869d1-b966-9830-0c16-f8b1775bec37"/>
+                    <attribute id="Name" type="FixedString" value="Black 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF474747"/>
+                    <attribute id="UUID" type="guid" value="3902192f-4a15-4558-8300-69602c2707e6"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hea9a86f4gec31g4dfeg85ebgd82886750ba5" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="439f9ab5-74eb-a0d9-c46d-ce75edc3b79a"/>
+                    <attribute id="Name" type="FixedString" value="Black 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF383838"/>
+                    <attribute id="UUID" type="guid" value="89a76555-df98-41bd-a599-110ff17cd80e"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h79448ef5gcf44g49b0ga146g3baf7fb408fe" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="dbe9a25e-03df-e32c-c036-c2424bc785b2"/>
+                    <attribute id="Name" type="FixedString" value="Black 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF2B2B2B"/>
+                    <attribute id="UUID" type="guid" value="3f7e1ed5-df81-4e98-9248-33e380f131de"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hef69631ag807ag4405g8a50g1582a5dcd852" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="3dfb1763-576f-307e-30b3-d14556b50f05"/>
+                    <attribute id="Name" type="FixedString" value="Black 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF1D1D1D"/>
+                    <attribute id="UUID" type="guid" value="ae230ecb-140d-4411-a716-079f51577e90"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h738ea35cg47d0g4fd5g976dg955205f70a5b" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="13cebf04-ad3d-05af-b823-70861d20fe8e"/>
+                    <attribute id="Name" type="FixedString" value="Black 13"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF1A1A1A"/>
+                    <attribute id="UUID" type="guid" value="aade35cb-8e4d-4d4d-9c18-b31332239c16"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h57ab041fg1acdg4f5cg9b39gf0a97ca07809" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="6d7cbdbc-d7b9-8b61-7739-186bcd0d2ec3"/>
+                    <attribute id="Name" type="FixedString" value="Black 14"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF151515"/>
+                    <attribute id="UUID" type="guid" value="fda8212d-61a2-44af-8027-ffed77863134"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h02e16b50gd6f3g48f2gb702gaa5b984b7afa" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="fd1bb540-cd32-50da-4419-100d7de01e45"/>
+                    <attribute id="Name" type="FixedString" value="Black 15"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF000000"/>
+                    <attribute id="UUID" type="guid" value="0f778f72-a3ce-4cef-9817-3645c1fe3e1f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcaf94b6dgbf41g4a90g8679g5b9366ad10bd" version="4"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="dfc80b28-12ca-b2af-ef29-fe96299256d7"/>
+                    <attribute id="Name" type="FixedString" value="Blue 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF72ACC8"/>
+                    <attribute id="UUID" type="guid" value="02e233ab-7ec0-4b78-bec2-15ebf367d275"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9f1b8365g3eddg447dga769gf0ab6d72699d" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="80d7e1cb-f7fa-73d7-bfa6-4ab97be86711"/>
+                    <attribute id="Name" type="FixedString" value="Blue 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF70A5C1"/>
+                    <attribute id="UUID" type="guid" value="dba316a5-b10b-4c1d-af42-3affadee9a17"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3c8ed07cgc6d8g4b45gb8d2g8e0b73b90dee" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="7912381f-fa9d-3e30-5bd4-4f6dc08557a7"/>
+                    <attribute id="Name" type="FixedString" value="Blue 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF6D9FB9"/>
+                    <attribute id="UUID" type="guid" value="c3bb45f6-5a3d-4871-95eb-001526383514"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1682a5b0g870eg4240gbeb1g4ece519a9228" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="6e7b372b-dfe4-b1b8-ddd5-fbf3e49bc871"/>
+                    <attribute id="Name" type="FixedString" value="Blue 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF3895B9"/>
+                    <attribute id="UUID" type="guid" value="5ed678bc-5bf5-444c-b148-3be51543fa2a"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha1fc6246g728eg46abgb2f9g51d31ae0ea97" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="9b0219a5-e37e-9f9a-cb15-07cbf92796c8"/>
+                    <attribute id="Name" type="FixedString" value="Blue 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF3590B3"/>
+                    <attribute id="UUID" type="guid" value="bf6723a2-23cd-49c7-a0ad-1b0f401e3cfe"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcd46fc4eg7577g46e6g9cb3g9c76bdfdbee2" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="732277a5-a75d-5fd7-428a-a1547408e9b7"/>
+                    <attribute id="Name" type="FixedString" value="Blue 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF328BAD"/>
+                    <attribute id="UUID" type="guid" value="25cd843d-7e5e-4ba1-94e4-d90e9b528561"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf0fa64eag31cdg4629gac8eg027e104b823c" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a246a0d9-969a-1a42-be69-3c3f76688eff"/>
+                    <attribute id="Name" type="FixedString" value="Blue 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF2A809F"/>
+                    <attribute id="UUID" type="guid" value="e8093be8-c510-4eae-b264-e51f70fa76f9"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h46fc1313g1812g488cgbe3fgd0cf71058040" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="c40c948a-67b7-709b-b7b8-0d142285dd08"/>
+                    <attribute id="Name" type="FixedString" value="Blue 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF267390"/>
+                    <attribute id="UUID" type="guid" value="1321356e-4be3-4188-bf3d-9764f11c9aa2"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7f08c730g0ec8g46begaa44g5c774add82d7" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="8ced6c2d-4c59-2043-190f-f86f8fd008f9"/>
+                    <attribute id="Name" type="FixedString" value="Blue 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF1C657E"/>
+                    <attribute id="UUID" type="guid" value="1dc9656d-1fda-40d5-ba9c-f3fd8f97990e"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h180390fag268ag469bgb560gde5e3aa13730" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="cf70cb1e-1390-b6ab-8872-e4e4b40f96ef"/>
+                    <attribute id="Name" type="FixedString" value="Blue 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF165C73"/>
+                    <attribute id="UUID" type="guid" value="56781157-51aa-483a-9a1c-10cb90a1ea4d"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb6e4657fg3bfdg4f63g82cdg66565d8e388d" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="08c8b143-3366-4b0f-f52f-9e81dc5e5a66"/>
+                    <attribute id="Name" type="FixedString" value="Blue 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF0D5368"/>
+                    <attribute id="UUID" type="guid" value="12149fe5-b886-42df-aa3e-66a43c974711"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hac825cb4gbb9bg4ab2gac79g9f478af91905" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="10b13491-35a9-6e26-a961-eae6d1cce759"/>
+                    <attribute id="Name" type="FixedString" value="Blue 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF00475A"/>
+                    <attribute id="UUID" type="guid" value="9b092b14-a767-4b49-834f-edb300adc759"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h42dac6ccg867dg49e8gaf5fg89693168b00b" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5297358a-f6ed-cd7c-cc00-2635ecc82359"/>
+                    <attribute id="Name" type="FixedString" value="Blue 13"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF003445"/>
+                    <attribute id="UUID" type="guid" value="4cb703d6-8cd6-4baf-9492-ced80e2a34fe"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6c8cde85g86f7g494agaa71gfa5efae9135f" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="6ea9be9e-dcc3-e6ea-b43e-a98c1ea3dce9"/>
+                    <attribute id="Name" type="FixedString" value="Blue 14"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF00222E"/>
+                    <attribute id="UUID" type="guid" value="a51b808b-c2ae-44ba-879d-3d08488f661a"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf7980d7eg58e7g4d02g8c08ge894ada0a833" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="7dd03513-bd01-3abf-add9-6a0d77b282b5"/>
+                    <attribute id="Name" type="FixedString" value="Blue 15"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF001C2A"/>
+                    <attribute id="UUID" type="guid" value="d40ab4a7-2045-48ce-9f62-1593be023a5d"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc67b376age353g4866g9520g67455e8c88fd" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="73751182-fb4b-ecff-dd3c-624170f9bfb1"/>
+                    <attribute id="Name" type="FixedString" value="Blue 16"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF00121D"/>
+                    <attribute id="UUID" type="guid" value="6f70569e-7f84-48db-98d1-e356cba5dfcd"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h13c8293cgfca1g480cg8972g20edbc7164a0" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="4046ef54-3a06-d460-acd9-a092d86381c3"/>
+                    <attribute id="Name" type="FixedString" value="Blue 17"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF000515"/>
+                    <attribute id="UUID" type="guid" value="62c31525-4e5b-4d41-9dc9-8c4e80ea7838"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc16cdcc8g4707g471eg9298gfb100ce1f126" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a5831a56-7aa1-c65c-86af-fe1dd5bde37c"/>
+                    <attribute id="Name" type="FixedString" value="Brown 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB97738"/>
+                    <attribute id="UUID" type="guid" value="cc35b93d-63e0-4728-9d5d-cfa8a4deffcf"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0070c99bg8713g4088g9474gbe400332d3ab" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5f5e86bc-f71b-0229-b4a4-0fdf16761334"/>
+                    <attribute id="Name" type="FixedString" value="Brown 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB37335"/>
+                    <attribute id="UUID" type="guid" value="38f37e3a-4a33-468f-871f-c65eafa30632"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc0bce4e9gce0bg4b40g9671g7361b4bfbd73" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b88cd128-0b29-4af9-e8f1-1159a0ef7983"/>
+                    <attribute id="Name" type="FixedString" value="Brown 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFAD6E32"/>
+                    <attribute id="UUID" type="guid" value="e3fca451-49c5-48f6-a5ce-2fc338663c50"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h99875199gc1bfg4036gbe04g0fd2e350bb65" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="93de8423-34dc-1bd7-85fc-26a4e569c4cb"/>
+                    <attribute id="Name" type="FixedString" value="Brown 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFA66A2E"/>
+                    <attribute id="UUID" type="guid" value="a702b710-481b-46bd-a45c-3bc504f5c557"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd983a3e7gb2ddg4bf8g904eg96addf143fed" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="24c525b8-7d7e-d12e-523e-63f6be235cb8"/>
+                    <attribute id="Name" type="FixedString" value="Brown 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF9F662A"/>
+                    <attribute id="UUID" type="guid" value="a645a3b1-0dd9-4d6a-85b1-f3b9affce15f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd415b60dgd89bg4302g9243g8ccc82ac0a00" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="85c76b25-76e8-d272-527c-5131919703ae"/>
+                    <attribute id="Name" type="FixedString" value="Brown 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF976026"/>
+                    <attribute id="UUID" type="guid" value="e072df5b-3d22-4c2b-831c-d919ae069fe1"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h63e72929g7832g49c7gad3eg594fae5e3f9f" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="fe233ccf-e6ce-f474-ec99-fd427679e290"/>
+                    <attribute id="Name" type="FixedString" value="Brown 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF905C26"/>
+                    <attribute id="UUID" type="guid" value="998443ca-2dd0-4751-aa4a-a73db7998a2c"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h98606a62gc38cg42ecg8904g5be280a19949" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="34d39e12-5849-d93b-2ce6-0b4f24f033ae"/>
+                    <attribute id="Name" type="FixedString" value="Brown 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF875522"/>
+                    <attribute id="UUID" type="guid" value="13f6acc4-16d6-44e9-9b27-a22960643bb4"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h705ac419g9560g45eeg9d72g020a09355081" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="6e61fb1b-126c-accf-3f92-308b02887637"/>
+                    <attribute id="Name" type="FixedString" value="Brown 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF7E4F1C"/>
+                    <attribute id="UUID" type="guid" value="8c8e7445-ed28-4bd2-a9f5-1cf11c959176"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hed966f0egdd8dg4445ga06fga2493cee2a63" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="7f77c1d8-e4d4-0129-f857-ceacd18b70ee"/>
+                    <attribute id="Name" type="FixedString" value="Brown 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF734916"/>
+                    <attribute id="UUID" type="guid" value="e9536b3f-0aa6-4254-a7b5-498b790e7709"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf506c0d1gaf33g4ca4gb6f7g90b6ebd033e4" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="68f67f92-3f6e-f7b2-eb8b-4e07f37de3c3"/>
+                    <attribute id="Name" type="FixedString" value="Brown 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF68400D"/>
+                    <attribute id="UUID" type="guid" value="9ddc4f32-a6bb-47f1-adab-16158fe2b71a"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5ac5dcb2g1ce7g48b7gb4f4ga55e920816fa" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="d637ca0d-f61e-9ca4-2547-53165d6e37ff"/>
+                    <attribute id="Name" type="FixedString" value="Brown 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF5A3800"/>
+                    <attribute id="UUID" type="guid" value="dee281c9-ba00-405e-bf10-0bac2dd981e8"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd0e4e766g99a6g4119gaaacgdd772bf3e98e" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="7fdba7a5-7f0c-979a-dcfe-5bb5582e6147"/>
+                    <attribute id="Name" type="FixedString" value="Brown 13"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF402500"/>
+                    <attribute id="UUID" type="guid" value="0b95c987-0eaf-4e20-b52b-f1116795a6a2"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="he3712735gfa04g4a86g95cfge1db5a87c88f" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5ea03a55-a6b6-9bbe-8c00-4517fa30541d"/>
+                    <attribute id="Name" type="FixedString" value="Green 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF38B962"/>
+                    <attribute id="UUID" type="guid" value="f7aaa344-b8fa-409a-be97-91e47b0990a4"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h714e064ag1957g4d84gb868g874e49c1b04b" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="59e8c485-670f-2bec-7bea-f5da44abed67"/>
+                    <attribute id="Name" type="FixedString" value="Green 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF35B35F"/>
+                    <attribute id="UUID" type="guid" value="a59b9ff4-2c86-40e2-8753-26d542e13e98"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h15f89696g8264g4f79gb797g7a1bd13b5abc" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="65aa78db-6ffc-343f-29fd-d351f10273ff"/>
+                    <attribute id="Name" type="FixedString" value="Green 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF32AD5C"/>
+                    <attribute id="UUID" type="guid" value="2f2f9d09-287b-4335-b07b-7554e8f62d70"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h915df017gd65ag46acg8f16g26b8f38e31b2" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b481b8d1-29b7-38bb-2744-4787d7fcd93c"/>
+                    <attribute id="Name" type="FixedString" value="Green 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF2EA658"/>
+                    <attribute id="UUID" type="guid" value="ee13a030-bdb4-490c-a23a-5c0e4df20715"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha5411f3egf1a9g442ag9d55g99342f609561" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="20fe8a70-958b-7a66-c37e-886e04c65d19"/>
+                    <attribute id="Name" type="FixedString" value="Green 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF2A9F55"/>
+                    <attribute id="UUID" type="guid" value="49966bac-2609-4ecd-88d9-a308ef555df9"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5eedd3d1g5ac9g48a7ga379gb3540257599e" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ca3b48b2-25b8-c5b3-b8b8-35973d1bbae9"/>
+                    <attribute id="Name" type="FixedString" value="Green 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF269751"/>
+                    <attribute id="UUID" type="guid" value="d6df8dac-ced7-46c4-8ea1-e3c3984a28b3"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6cd3cf63g98abg406egbca7g2e5b613e98e2" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="fd55c99f-c343-2cad-6562-7d489ca71f6f"/>
+                    <attribute id="Name" type="FixedString" value="Green 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF26904F"/>
+                    <attribute id="UUID" type="guid" value="8978fa9e-b3cc-487d-afe7-3d12bcb40048"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha1872e59g005dg4303g9235gf4c2cf5f4667" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5f738b5b-e77e-c8e6-b0bd-76cacd05f347"/>
+                    <attribute id="Name" type="FixedString" value="Green 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF22874B"/>
+                    <attribute id="UUID" type="guid" value="78a6ecc6-df72-404d-a93d-fc206775523b"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3f46e74cg16fcg41d0ga26bgf8a92cb372c3" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="e62909d8-38e6-fce4-5bf3-8572760c9408"/>
+                    <attribute id="Name" type="FixedString" value="Green 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF1C7E47"/>
+                    <attribute id="UUID" type="guid" value="6805a2fa-600e-42f7-993d-e9222fea6b01"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6dfe478cgd155g4282g940ag15ea95ebea21" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ead1b1d9-1e0a-733e-dcef-cbc1b1485124"/>
+                    <attribute id="Name" type="FixedString" value="Green 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF167342"/>
+                    <attribute id="UUID" type="guid" value="602946ce-1c5e-4d58-b2e7-29003eaab97c"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h47b6d18agcbd8g443bga8e8g7083d4e9f7db" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="27864087-f34a-1dd2-f294-53e6ce3c6691"/>
+                    <attribute id="Name" type="FixedString" value="Green 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF0D683D"/>
+                    <attribute id="UUID" type="guid" value="3e13db75-fc2d-4f2e-8192-1493c583100f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7ed3821bgc2aag40a2ga6fbg0f12749401d2" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="0393a466-c251-40fa-3141-97e2d3b5cdd1"/>
+                    <attribute id="Name" type="FixedString" value="Green 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF005A38"/>
+                    <attribute id="UUID" type="guid" value="27959e16-9d52-449d-bf07-b28caa97e39a"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hef8fe88egb0bfg44ebg99c0g7b8c4bbf6d1b" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="9bbdc51e-c02a-34f9-9d5d-5066a846ee3d"/>
+                    <attribute id="Name" type="FixedString" value="Green 13"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF003A20"/>
+                    <attribute id="UUID" type="guid" value="a9bf2153-af7c-4a23-bc32-d94a6bd41ec4"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha4d63ee7g9827g4adag8c35gac65cbc78b7f" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="89fbb8ad-b8a9-3d8e-b59f-21fd7b201a94"/>
+                    <attribute id="Name" type="FixedString" value="Green 14"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF002912"/>
+                    <attribute id="UUID" type="guid" value="e145f571-4adb-4062-ab2b-6c3da5b89ca1"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5df38c03gdb97g4b6dga9fegc2bd818413db" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="d8593925-d6e5-8cce-6ff7-a17626f7c05d"/>
+                    <attribute id="Name" type="FixedString" value="Brass 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFF7E24B"/>
+                    <attribute id="UUID" type="guid" value="d82443b4-47ff-40ff-918d-af7f539c1fc7"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7c853ee1gd1c3g4447g8734g13b57c759371" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="2b80dcf7-f917-1645-f135-520f120dd829"/>
+                    <attribute id="Name" type="FixedString" value="Brass 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFEED947"/>
+                    <attribute id="UUID" type="guid" value="548d736c-dd71-4abd-b06b-1d0d255985ba"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb5005230gd9d1g499agbebbg46d03d86d6d6" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="19b66cf4-2e48-e41f-2f8b-dfc895b747d6"/>
+                    <attribute id="Name" type="FixedString" value="Brass 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFE5D145"/>
+                    <attribute id="UUID" type="guid" value="ee13aaf5-6eee-4c1a-a326-62595ff0cd7e"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h21430e7fg4f64g486cgb80eg30747bfda264" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b63afe91-062a-ed31-26e7-87baff4036dc"/>
+                    <attribute id="Name" type="FixedString" value="Brass 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFDAC740"/>
+                    <attribute id="UUID" type="guid" value="e8f58b73-c92a-4bbb-bd24-124dcb39e990"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h86ac8109gfc53g4368gb025g852e0d90b9be" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="7b6be602-d38c-1174-24c8-2f1598ca67b7"/>
+                    <attribute id="Name" type="FixedString" value="Brass 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFD0BD3B"/>
+                    <attribute id="UUID" type="guid" value="aab7ba23-9a1f-4778-ac8d-09c6c8cb0aae"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf946e6dcg1aa5g40b7ga42bg0f72f07294ee" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="2c4586f8-707d-86c3-d3f7-51a4eae35042"/>
+                    <attribute id="Name" type="FixedString" value="Brass 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC4B338"/>
+                    <attribute id="UUID" type="guid" value="30f5110f-5ecd-4566-a947-b3a3745a4743"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h10c49f0fga8fdg4b22g88fcgd7acc7bc2883" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="3cc012e0-a864-2ad0-f7d4-f0552eb3358d"/>
+                    <attribute id="Name" type="FixedString" value="Brass 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB8A732"/>
+                    <attribute id="UUID" type="guid" value="2730ac4a-a6e7-4486-a248-533ed1bfd219"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd65c7b3agc650g4dbdgb34cgad9a89af6f9c" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="862f8c47-7a7a-728b-78b1-78602405602d"/>
+                    <attribute id="Name" type="FixedString" value="Brass 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFAA9B2E"/>
+                    <attribute id="UUID" type="guid" value="084d1792-7ec3-4856-a3fa-063f0b928724"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4842181fg30f5g4acagaa2fg8757f6c0d184" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="addbae06-58bc-4c44-51eb-5a4f167a78fe"/>
+                    <attribute id="Name" type="FixedString" value="Brass 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF9B8D26"/>
+                    <attribute id="UUID" type="guid" value="9199a42e-70eb-4514-9aa2-62e5e86ed5b5"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h31f20fbag1039g40dcga511gb8fc3c0f58d6" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b3879e3e-61be-3432-091e-aea817ae32fc"/>
+                    <attribute id="Name" type="FixedString" value="Brass 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF897D1C"/>
+                    <attribute id="UUID" type="guid" value="596b8076-8e86-4f2e-87ac-d8c94cc1f319"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h373e176bg9a70g4e2fg80afge51293898935" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="4c96ba4d-351f-17d3-14e0-2c7f51849d2b"/>
+                    <attribute id="Name" type="FixedString" value="Brass 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF756A16"/>
+                    <attribute id="UUID" type="guid" value="b24dc85c-3bc1-47a0-a4ed-f7bbf9af10ea"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc0c857ebgdd7eg4c27ga056g0ff678727cc4" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="fb28e949-7d49-f442-9a4c-923d6fe3a7c8"/>
+                    <attribute id="Name" type="FixedString" value="Brass 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF5A5100"/>
+                    <attribute id="UUID" type="guid" value="48e0f0a3-8c8f-4788-add8-6d1c4f3031e3"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4e1405e5gaabfg4762g8066g149808d059fc" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a3583aa5-65a4-228c-034f-59d3e9b4b0ef"/>
+                    <attribute id="Name" type="FixedString" value="Bronze 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFF7AD79"/>
+                    <attribute id="UUID" type="guid" value="014d9cf5-4b09-48f6-aede-81ed68a7f96d"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd08f9562g81ecg4ea1gae55g0b4d871baa84" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="66e91463-fdbb-9c98-6be9-a2a9ac374ef2"/>
+                    <attribute id="Name" type="FixedString" value="Bronze 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFEEA775"/>
+                    <attribute id="UUID" type="guid" value="5203adfd-e9c9-4151-b76d-8179ae72eb47"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4d16c3fcg6355g4458ga500g0841a844a08d" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="1e045e56-0e62-c0af-6422-294dde13957b"/>
+                    <attribute id="Name" type="FixedString" value="Bronze 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFE5A071"/>
+                    <attribute id="UUID" type="guid" value="ae6d8368-5fa3-499c-8823-a03986f1d6f0"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h43f152d2g22d3g417dg998agdcb5d1a03144" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="6fe35019-383e-a6f2-d055-001accfff829"/>
+                    <attribute id="Name" type="FixedString" value="Bronze 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFDB996C"/>
+                    <attribute id="UUID" type="guid" value="08b40a76-dff3-4afa-90da-8891de15b2a4"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h231f8204g7a6fg42fbgb259g134a972e0553" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="abd98e44-bff7-bd62-2695-45dc05999a35"/>
+                    <attribute id="Name" type="FixedString" value="Bronze 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFD09168"/>
+                    <attribute id="UUID" type="guid" value="0e52be68-c5b8-4d7b-9584-72f2994f500d"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h05d68319gc7fag40ecg91e4g0364a563e358" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a8cd1d1b-c4df-2879-b251-505fe21af2dd"/>
+                    <attribute id="Name" type="FixedString" value="Bronze 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC58862"/>
+                    <attribute id="UUID" type="guid" value="09670fd5-e810-40d8-8c52-9559908645c7"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hca88a873gb9c6g45a8gab4cg362de3594b48" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="6ca4c6f3-46f2-fd2f-e9bf-063b5912965c"/>
+                    <attribute id="Name" type="FixedString" value="Bronze 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB8805D"/>
+                    <attribute id="UUID" type="guid" value="7c0fdb68-5aba-46f1-975f-cda91809f83f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc9bf46fdgd586g4ac0gb657g434e8d0c6683" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="d32c74f1-1bec-e712-3931-784bde8be798"/>
+                    <attribute id="Name" type="FixedString" value="Bronze 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFAA7656"/>
+                    <attribute id="UUID" type="guid" value="fa24770f-f30d-4795-848f-801ab105c797"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf02cd80fg6f49g45d3ga3ecgaef44a1b3093" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="57a79e64-c2cf-8aee-cb15-e8d30cd7e37a"/>
+                    <attribute id="Name" type="FixedString" value="Bronze 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF9B6A51"/>
+                    <attribute id="UUID" type="guid" value="a7db95f7-f96a-489b-956c-e3b3294ae2fe"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6f7885d2g702cg4af7g97a9g66d24f76c623" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="fbff71d2-7745-3f39-8b3a-23d635908a16"/>
+                    <attribute id="Name" type="FixedString" value="Bronze 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A5D49"/>
+                    <attribute id="UUID" type="guid" value="037f0e6b-2019-46be-be2b-91b7936c83a4"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0c5af408g2b42g482aga0b9gf64910bd1203" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ca124533-2808-8e80-1b4f-6670171d34b7"/>
+                    <attribute id="Name" type="FixedString" value="Bronze 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF754F42"/>
+                    <attribute id="UUID" type="guid" value="eb6a6712-1340-4325-b993-c97a06d43520"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha6bcab9bg0addg4a76g82efg2b4c20d7059f" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="452a6329-28d1-1a98-8760-dc31d90a7e8f"/>
+                    <attribute id="Name" type="FixedString" value="Bronze 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF5A3B38"/>
+                    <attribute id="UUID" type="guid" value="369dc42e-6755-403e-9295-c50498f91f9a"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha381ca25g4dd4g42bcg8e8fg372ef1e9d853" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="c7bd2fec-2af5-b222-1815-e1768fb63c16"/>
+                    <attribute id="Name" type="FixedString" value="Copper 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFF56938"/>
+                    <attribute id="UUID" type="guid" value="702d4cdc-4815-4a5f-96fd-5206ca1820cb"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h39d64258ge5bag4698gb235g7408bf31561c" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="83d29345-b624-714c-07c6-b5394b3d4ec1"/>
+                    <attribute id="Name" type="FixedString" value="Copper 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFEC6535"/>
+                    <attribute id="UUID" type="guid" value="cdceba3e-9068-431a-b346-8baf0963c37d"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="haf6b5763g9cadg47fag8632g47412b7ae8a3" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="87bc165d-f27e-eee4-1c52-d2cc0b73a27c"/>
+                    <attribute id="Name" type="FixedString" value="Copper 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFE35F32"/>
+                    <attribute id="UUID" type="guid" value="2f6de519-5ae9-4b4a-b604-2f4b5a8bc952"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h904fb073g9fceg44b2gb11cga3fe364305bf" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="94f1dbed-1227-89ef-2bcc-e2b1d33b6f88"/>
+                    <attribute id="Name" type="FixedString" value="Copper 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFD95A2E"/>
+                    <attribute id="UUID" type="guid" value="8dc204c3-7d83-4755-9f9a-06dbd0b5b736"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd566959eg7b34g4810gb5f2g5d0e8be29c82" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="83d29345-b624-714c-07c6-b5394b3d4ec1"/>
+                    <attribute id="Name" type="FixedString" value="Copper 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFCE552A"/>
+                    <attribute id="UUID" type="guid" value="44a4554b-00c1-451a-880a-87d3470a198a"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5b71be29g10e2g43c5gb14cg91d4433a70a6" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="8ff3ed38-fa4b-810b-4f2b-d173bec8a494"/>
+                    <attribute id="Name" type="FixedString" value="Copper 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC34F26"/>
+                    <attribute id="UUID" type="guid" value="78bfcb16-62a1-47d2-b9db-abdec6700bf6"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h50040569g6d3eg4ac9ga0d9g4c9a260dce17" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ce607a72-4cd4-4460-94e3-8233d68cc422"/>
+                    <attribute id="Name" type="FixedString" value="Copper 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB64726"/>
+                    <attribute id="UUID" type="guid" value="0c2c4ad1-7ea3-48f7-bfcd-e8b1cf3cf158"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7cf3ef86gf905g45e0g8001g2144471aed81" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="e26888b0-56cb-b9b3-f508-2d5966444afe"/>
+                    <attribute id="Name" type="FixedString" value="Copper 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFA94022"/>
+                    <attribute id="UUID" type="guid" value="6d0d557a-49a2-49a4-be30-66ba102fdf9a"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2272b1a7g304ag42abgb59dg6e324b89d968" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="fd678b17-369d-c5cb-dece-cc068f725fcc"/>
+                    <attribute id="Name" type="FixedString" value="Copper 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF9A381C"/>
+                    <attribute id="UUID" type="guid" value="1c207631-1d4d-46f2-9d66-96f0f7389f79"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3c64b55dgb4ebg4d06g8834gd4661a3467b4" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5d950498-b6f1-d756-16eb-c5a45ad19005"/>
+                    <attribute id="Name" type="FixedString" value="Copper 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF892E16"/>
+                    <attribute id="UUID" type="guid" value="4fff9376-3457-4e89-84f6-8cc54c891bab"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc765a63bg210ag429bga59fgfcc935d5afd6" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a1435091-3803-b5e6-21a8-0abdd6a0ccd8"/>
+                    <attribute id="Name" type="FixedString" value="Copper 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF751C0D"/>
+                    <attribute id="UUID" type="guid" value="5ae9a9f9-7e6e-48b7-ac60-5a9ca84c15a7"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h92b6c726gb28eg4a87g9f49g8d2090718a7c" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="cd49bad1-ed51-8ecb-1d7d-9aea2cd995a8"/>
+                    <attribute id="Name" type="FixedString" value="Copper 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF5A0000"/>
+                    <attribute id="UUID" type="guid" value="8f91be14-0a67-4397-b19a-14bcf6dcf53f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd2157e92g5da4g47f7g8fd7gf2fac69d2e8c" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5a236586-1da0-a0e8-bd76-3cada856c32e"/>
+                    <attribute id="Name" type="FixedString" value="Gold 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFEFA540"/>
+                    <attribute id="UUID" type="guid" value="eb976a2b-234f-4389-8057-2b5d676ed027"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2e22b6cbg6210g43a8ga6f9g7194d49cfcfa" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="f3381f27-3a53-979c-b7a7-013dee5de138"/>
+                    <attribute id="Name" type="FixedString" value="Gold 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFE69F3D"/>
+                    <attribute id="UUID" type="guid" value="8eabcc93-d652-45c9-aed7-b22fe4fe719e"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7eacf8f5gce27g47b2g995bg08320ff0ba7b" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="bc829bfe-0a2c-e742-5947-e94e4aba83cb"/>
+                    <attribute id="Name" type="FixedString" value="Gold 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFDD993B"/>
+                    <attribute id="UUID" type="guid" value="7f2d8841-453e-41d2-bee6-5e66b6aac817"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf0b5a558gbecdg499fgb630gcf4baf8216e1" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="46ae253c-f37d-b714-9380-982fe2b4cc69"/>
+                    <attribute id="Name" type="FixedString" value="Gold 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFD49235"/>
+                    <attribute id="UUID" type="guid" value="b6356a21-47e6-418a-acb7-14e30acd669e"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3802b5acg2545g4b16ga40fgca671278bc75" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="0b8645a7-77e0-6868-6d57-37274a063fe6"/>
+                    <attribute id="Name" type="FixedString" value="Gold 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC98A32"/>
+                    <attribute id="UUID" type="guid" value="46a1cd59-3f0b-4466-91f5-958fa72e10c9"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5e2e450eg2c53g4fbfgacecg2af7658dad1d" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="cd166a08-7f6c-2fe9-4ac8-e513190a1c85"/>
+                    <attribute id="Name" type="FixedString" value="Gold 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFBE822E"/>
+                    <attribute id="UUID" type="guid" value="38f030a4-86bc-4592-abbc-2c3f746c3596"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h71067e47g1ef6g477bgb845g6e302cef01e0" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b3883dd1-47c1-72d5-d635-4c2e270d11e0"/>
+                    <attribute id="Name" type="FixedString" value="Gold 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB27A2A"/>
+                    <attribute id="UUID" type="guid" value="a17a9937-e632-45c6-8de1-7055202c0bd2"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hceff7c31g723fg405ag8c80ga2a0d13d1c0b" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="df804dc6-45ef-4d95-58b4-26eb334128cb"/>
+                    <attribute id="Name" type="FixedString" value="Gold 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFA67126"/>
+                    <attribute id="UUID" type="guid" value="565af4f9-3f09-4d6a-8e30-f1a67ec74503"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb2613372gb590g4d56g95a9g6f9a59a71259" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="9f5e4f95-b553-b2be-3370-f5fefcc0f651"/>
+                    <attribute id="Name" type="FixedString" value="Gold 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF976622"/>
+                    <attribute id="UUID" type="guid" value="75d579c6-2a8a-403a-a215-5289cbfd9e40"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h307519ddgb633g44fegb388gfc8410e59519" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="20933b31-a4d6-4c98-4532-975462328b55"/>
+                    <attribute id="Name" type="FixedString" value="Gold 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF865A16"/>
+                    <attribute id="UUID" type="guid" value="37dc835e-48e5-4173-a409-121fb7608c8c"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h40daaf19g2d69g49aaga3afg6d18b3209eec" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a2cf0abc-ce0d-0556-0185-5d3dcbb4f1a8"/>
+                    <attribute id="Name" type="FixedString" value="Gold 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF734D0D"/>
+                    <attribute id="UUID" type="guid" value="58076c24-a4ed-450c-9f32-65e0077cc08d"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha29a8b64g0ac4g4000gaa52gda159756a6ae" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ec9e98f2-8e3b-d51b-9bdd-884d30a76713"/>
+                    <attribute id="Name" type="FixedString" value="Gold 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF5A3B00"/>
+                    <attribute id="UUID" type="guid" value="ad53f66e-d7c5-4449-9cbb-9eb6d110e4de"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbbec60f8g19dcg4f2dgbbd6g1c38fe3806be" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="caa89e1e-6ef5-38d1-071c-ddd7839d3f47"/>
+                    <attribute id="Name" type="FixedString" value="Silver 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFE2E2E2"/>
+                    <attribute id="UUID" type="guid" value="6831bf5f-75e7-42cb-b563-f3194d927d77"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="he1bd3a03g5dfdg48e7g92d5g3725dc2a093d" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5df36a92-4e9f-a73f-6c12-5421b4c306ff"/>
+                    <attribute id="Name" type="FixedString" value="Silver 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFDADADA"/>
+                    <attribute id="UUID" type="guid" value="f367f790-56d1-44b3-a15f-d03b9d4a4dbc"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6ed44895g46a0g4a11gbdcfg28b78063f210" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b05d9d2e-6111-20c7-36a0-ab7e1a0c14c3"/>
+                    <attribute id="Name" type="FixedString" value="Silver 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFD1D1D1"/>
+                    <attribute id="UUID" type="guid" value="07517633-36e0-4561-9d0d-aaac61679fa2"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h36342690gbc35g41a3g8ccbg488dd185572a" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="f4f1989c-6f6b-f800-8f91-4fe5ab7aedbd"/>
+                    <attribute id="Name" type="FixedString" value="Silver 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC8C8C8"/>
+                    <attribute id="UUID" type="guid" value="87d9c71e-ef66-4f65-9114-fc8279cbd1f6"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h641226ceg4a92g4764g96e5g55e8e49fbada" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="e0ff9951-8be0-dc11-5ed6-364128672eef"/>
+                    <attribute id="Name" type="FixedString" value="Silver 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFBFBFBF"/>
+                    <attribute id="UUID" type="guid" value="1edc3f9b-b373-457d-8922-e6bef41e1b43"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h667b30c5g1af7g4bbdga66cg2ff94a05767a" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="25c9ce12-41fa-7183-93e5-5a761817a959"/>
+                    <attribute id="Name" type="FixedString" value="Silver 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB4B4B4"/>
+                    <attribute id="UUID" type="guid" value="4edb4a5d-17c0-452e-b5b9-56c6adb6af00"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha2a1ddd7g4391g4bf4gb79ag7e045e8df3ee" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b5fc0ace-e4b4-b646-fa4d-2980c7a3c74d"/>
+                    <attribute id="Name" type="FixedString" value="Silver 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFAAAAAA"/>
+                    <attribute id="UUID" type="guid" value="d1088caa-0ca9-4170-add8-17a37e576e0f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4b673d92g8ceeg42fagb099gc5ff307b7536" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="433d55c6-f16b-3520-e047-5ab16c58f2ae"/>
+                    <attribute id="Name" type="FixedString" value="Silver 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF9D9D9D"/>
+                    <attribute id="UUID" type="guid" value="1f674139-8c66-40bf-b9f0-6083e20a6666"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbdeb1113gd1deg4c41g9675g0bcb37fd4390" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="48b59cfd-8599-507a-5df7-1324cfbd92f4"/>
+                    <attribute id="Name" type="FixedString" value="Silver 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF909090"/>
+                    <attribute id="UUID" type="guid" value="023c95ee-7a2a-46f7-a315-ed03bb14f90d"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h116b4d14g0b84g4452gae41g7700fc403532" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="34e3f54f-43b6-7146-4ad2-985060b38567"/>
+                    <attribute id="Name" type="FixedString" value="Silver 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF818181"/>
+                    <attribute id="UUID" type="guid" value="0527ee58-2542-458d-ac4b-2881ba705d2e"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9debf3b4gbccfg437bga2c4gb49d944d7e2c" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="8b89c772-6866-2aa2-1d2e-18c6f64d48df"/>
+                    <attribute id="Name" type="FixedString" value="Silver 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF6E6E6E"/>
+                    <attribute id="UUID" type="guid" value="61843fde-49b2-4726-bb1c-5a78a03f6a9d"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8514128dg34e1g400egb66cgf76eac97789d" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="df8d33c3-893d-f6ae-7491-e28746b1fa5c"/>
+                    <attribute id="Name" type="FixedString" value="Silver 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF585858"/>
+                    <attribute id="UUID" type="guid" value="7ab1695c-13cf-45d7-87ba-243f3df4fffe"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5bd7c5f5g033bg4456gac58ga2ba904185c8" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="61283536-f410-a10c-75a7-b924a2aaeb34"/>
+                    <attribute id="Name" type="FixedString" value="Pink 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFF098E0"/>
+                    <attribute id="UUID" type="guid" value="3445974d-56f5-46bc-95a8-b3ecaf163e35"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h479d64efg1bafg4ca8g8175g0264e5450590" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="8a23c61d-39ab-5eeb-f868-d614e8d50f34"/>
+                    <attribute id="Name" type="FixedString" value="Pink 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFE893D8"/>
+                    <attribute id="UUID" type="guid" value="3ae468c0-919c-4c86-bab0-a4956ab96d4d"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h361c1bc5g68a9g4db0g9bf2gc270d9847189" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="df59fea7-ea78-8d1f-5ecb-24df11a3918a"/>
+                    <attribute id="Name" type="FixedString" value="Pink 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFDE8CD0"/>
+                    <attribute id="UUID" type="guid" value="9b747973-276e-46e1-9adf-9106eb86cf0c"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd252454cg020cg4e64gaa96g7682eb2df03c" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="530efeb1-cda6-e3ca-54f7-31b49de7e531"/>
+                    <attribute id="Name" type="FixedString" value="Pink 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFD586C7"/>
+                    <attribute id="UUID" type="guid" value="a3468abe-612f-4aec-a5e1-45a135f89af1"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h48a8aa5ag3da0g4e94gb696g930c472fe403" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a6bdc51e-1fc1-b4b1-5e54-32cbcb06cd51"/>
+                    <attribute id="Name" type="FixedString" value="Pink 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFCA80BD"/>
+                    <attribute id="UUID" type="guid" value="d7ac587d-4fa4-4008-9bcf-238f3193878e"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc7bf96eag07a8g4f16gaf70g90f6fc826d3c" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="f879aaf0-b570-a76c-6855-fecd50927441"/>
+                    <attribute id="Name" type="FixedString" value="Pink 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFBF78B2"/>
+                    <attribute id="UUID" type="guid" value="77bc75fe-711c-4edb-bd36-a51a99a6268c"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6e27a862gb3a1g4c21ga481g037277d7062a" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="fe8da6dd-af8d-b62e-fdb6-aadc29629cf5"/>
+                    <attribute id="Name" type="FixedString" value="Pink 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB471A7"/>
+                    <attribute id="UUID" type="guid" value="28a334f0-47a6-48fc-a062-ef5a5fb5291c"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7c944ecag7003g426dga493gc063f3480fb0" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="e8a2ef46-32b1-ea86-f2f2-86402c771ca5"/>
+                    <attribute id="Name" type="FixedString" value="Pink 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF985F8D"/>
+                    <attribute id="UUID" type="guid" value="2f4c50db-1405-4468-8f50-aff6b6eeb6b3"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0c6c3ab8gcffdg4034g9ce6gd719debb6c53" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ae986670-91a8-029a-3db1-2344b7777ce2"/>
+                    <attribute id="Name" type="FixedString" value="Pink 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF87557E"/>
+                    <attribute id="UUID" type="guid" value="fbd94c6b-0423-4d4b-b2d3-74f88cee32ae"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf8c9422fg570ag4eaeg88abgaa0de7cdab54" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="48aa7e10-f99e-8bc6-8989-fcf8bf774870"/>
+                    <attribute id="Name" type="FixedString" value="Pink 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF87557E"/>
+                    <attribute id="UUID" type="guid" value="eeda63a0-f0ad-4770-bea4-d4f6d6c681a6"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3f40f7fbge9beg43c2g84c9g99ba8e5fdd95" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="66ca13f9-05d8-448a-c66b-8c69ec032601"/>
+                    <attribute id="Name" type="FixedString" value="Pink 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF73476A"/>
+                    <attribute id="UUID" type="guid" value="26db02ad-2294-4252-8ef2-9b3279f24c90"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6e9596c3g4121g4434g8b9bg8b8089fd6aa7" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="fa2b094c-3bcf-1045-d65c-c15191b84477"/>
+                    <attribute id="Name" type="FixedString" value="Pink 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF5A3853"/>
+                    <attribute id="UUID" type="guid" value="4cb08d92-6ab2-4086-8e48-4890304bfbfa"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd3e8b84cgead7g4ae2gbd47g5f0e6adcb033" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="609d304a-9083-3778-cd4f-45cb52e44498"/>
+                    <attribute id="Name" type="FixedString" value="Red 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFF40000"/>
+                    <attribute id="UUID" type="guid" value="d739f914-ce07-45c9-8766-69369dc819ec"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="he44fb1a0g5bf1g4fe6gbe90g3be0f7e38eab" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="8df4d548-980f-a30c-f50e-0ecce6263d6b"/>
+                    <attribute id="Name" type="FixedString" value="Red 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFEC0000"/>
+                    <attribute id="UUID" type="guid" value="c000de61-696e-4739-8f55-e475c065b4c0"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="heb510454g7af6g4a3bgba9ag0511cda76321" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a4ba3f12-47dc-b103-3e3a-12a7a3df4d66"/>
+                    <attribute id="Name" type="FixedString" value="Red 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFD70000"/>
+                    <attribute id="UUID" type="guid" value="3f5d10af-473a-42af-b3e7-06656e400641"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1a0d06feg9156g4bffg880egc2f847ba25da" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b2487e5a-ff52-8f64-e92d-a4d12f0c4dd3"/>
+                    <attribute id="Name" type="FixedString" value="Red 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFCD0000"/>
+                    <attribute id="UUID" type="guid" value="4ad2b374-aea7-4cc0-9a01-6dab170af418"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4f59ea86g6d7eg4dc1ga25dg146ca4dac4a2" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="73966e74-c92f-f577-f5e9-e36fce3a77f5"/>
+                    <attribute id="Name" type="FixedString" value="Red 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC20000"/>
+                    <attribute id="UUID" type="guid" value="a100f5e1-8577-4510-ac0d-178d245d1a5b"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5da36668g9106g43acga1f0ge4160c4d663d" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="015fb3e6-9988-542b-83fc-bae007ed3068"/>
+                    <attribute id="Name" type="FixedString" value="Red 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB60000"/>
+                    <attribute id="UUID" type="guid" value="8d3efa1e-9fa1-4105-a138-38cb7d958446"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h20358b14ge049g4950g8af9g5a5ec7c3261b" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="15b53854-ea99-5545-0ba0-329742665a5e"/>
+                    <attribute id="Name" type="FixedString" value="Red 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB60000"/>
+                    <attribute id="UUID" type="guid" value="43af498b-5a2f-476f-b305-a537486001e4"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h467b4d69gd904g4ee3g9cbfgd6c50743fc3f" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="e231d399-dde9-3d19-88f6-529bad712fb8"/>
+                    <attribute id="Name" type="FixedString" value="Red 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFA80000"/>
+                    <attribute id="UUID" type="guid" value="3b11ba4d-212e-4756-93f1-0c80b879c7e6"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h89bae063g3ffag40feg9378g279a2c03a862" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="0143d2ff-863f-01c5-d8e6-b8c7a1733715"/>
+                    <attribute id="Name" type="FixedString" value="Red 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF9A0000"/>
+                    <attribute id="UUID" type="guid" value="c25d4295-de55-4c84-83c3-813cd8d9b43d"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h888eef2eg7599g4313g8a84g01389634b615" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="f19158a8-2ecc-56d2-e020-8f07345babe7"/>
+                    <attribute id="Name" type="FixedString" value="Red 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF880000"/>
+                    <attribute id="UUID" type="guid" value="ad4b0994-eaab-4c2b-afc8-18fa3b84d344"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h54fc71f1g4468g418bgbec3ge1dd38b269e9" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5658b5cb-768c-cc58-3e20-c29bd005120d"/>
+                    <attribute id="Name" type="FixedString" value="Red 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF750000"/>
+                    <attribute id="UUID" type="guid" value="ebc19448-4d49-4470-8ce6-0b8817788d23"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf27798e9g8553g4c05gba8fgfdf57d8ee079" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="4dd59852-e20a-0a06-349c-79c32e88494c"/>
+                    <attribute id="Name" type="FixedString" value="Red 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF5A0000"/>
+                    <attribute id="UUID" type="guid" value="a24b5a4b-f901-4329-bac6-92eff1cf181c"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha567720cg5e0eg4d57g9a2dg136afb8b7236" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="0615d297-1ac2-dd89-59f8-c0f919b034d8"/>
+                    <attribute id="Name" type="FixedString" value="White 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFFFFFFF"/>
+                    <attribute id="UUID" type="guid" value="613a119b-28ca-40bf-8a00-db78c6510a8d"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0ec88370g45e2g4eadgbebfg80776ed3f27a" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="4f5c0e12-1b28-d594-1adc-c58d445c8bfa"/>
+                    <attribute id="Name" type="FixedString" value="White 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFF8F8F8"/>
+                    <attribute id="UUID" type="guid" value="2577474c-f3f8-473c-b731-34cb0dbc7ae5"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5841fab6g01d6g4236g8c91g5c326f96af0e" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="87b439fa-07f7-d3c1-10eb-bce17cedbfa0"/>
+                    <attribute id="Name" type="FixedString" value="White 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFF1F1F1"/>
+                    <attribute id="UUID" type="guid" value="5906cef2-cf90-4697-bd2b-3ca09ec870e4"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0655b3c9g2abcg452egac72g57e0942e9195" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="3150302e-6a1d-ddac-6170-239acfda7c77"/>
+                    <attribute id="Name" type="FixedString" value="White 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFEAEAEA"/>
+                    <attribute id="UUID" type="guid" value="b2822ff7-f42f-42f1-a732-a7971ae8aeff"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc76aa0a3gc3ccg4c98g9f9bgd3fdb77eb7b2" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="d55c7306-58ee-4795-714e-37abae676df3"/>
+                    <attribute id="Name" type="FixedString" value="White 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFE2E2E2"/>
+                    <attribute id="UUID" type="guid" value="9b08eba3-5d32-45e2-930d-972b7e2ccad4"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha898f51cgd520g448ag86eegad72e9a44fe8" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="1fdb718f-048c-69cf-adb9-a9d02da488ce"/>
+                    <attribute id="Name" type="FixedString" value="White 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFDADADA"/>
+                    <attribute id="UUID" type="guid" value="170c610f-a9e3-44a1-aa05-0237a7a1a5cc"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7dde6244ga82bg49a3ga112g3c453bc3e374" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="1769633f-e1b3-c0e7-422e-763edb3d4608"/>
+                    <attribute id="Name" type="FixedString" value="White 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFD1D1D1"/>
+                    <attribute id="UUID" type="guid" value="4483358a-6a11-4211-8e1a-9d855adcad3d"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1d418292g6e6fg44f7g8f9bg0ef2f319fbce" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="9ab59574-a787-8d15-0746-73041c3cfbe4"/>
+                    <attribute id="Name" type="FixedString" value="White 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC8C8C8"/>
+                    <attribute id="UUID" type="guid" value="e6bf4fbf-4a32-4465-97e8-a4698e59a097"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8185da0agc5e4g49efgb9aegd1209b84d036" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a106004e-46d4-e02e-5e4c-2cd593745b22"/>
+                    <attribute id="Name" type="FixedString" value="White 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFBEBEBE"/>
+                    <attribute id="UUID" type="guid" value="88a552fb-2fcb-42c1-a7ba-d4931db647f9"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb5d9e777g3548g4eadg8370g639350b98c9e" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="51043d3b-8e3d-ecfd-2c85-cd044c865c37"/>
+                    <attribute id="Name" type="FixedString" value="White 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB4B4B4"/>
+                    <attribute id="UUID" type="guid" value="4a3bf59b-2d76-48c9-97ca-56e539c57e15"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h28fbafe6gf655g47feg9a33g27adf4170d31" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5c021b36-0750-279f-e985-c322fb8642f1"/>
+                    <attribute id="Name" type="FixedString" value="White 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFA8A8A8"/>
+                    <attribute id="UUID" type="guid" value="d84be73e-28ae-4d53-93b6-31731caaf108"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0c0e4f48g4022g49a9g95c3g978a0df2ef1b" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ddfcb9ce-c3bc-99d6-73d4-686cabaf4bc2"/>
+                    <attribute id="Name" type="FixedString" value="White 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF9C9C9C"/>
+                    <attribute id="UUID" type="guid" value="cbd260db-6c38-4399-aa4d-24a5883d5413"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6ae4a8b9g76e3g4bc1g9307g8d5f9a2687ec" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a90ccfba-9895-7fcf-2c1a-93f30d82f31c"/>
+                    <attribute id="Name" type="FixedString" value="White 13"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF808080"/>
+                    <attribute id="UUID" type="guid" value="81d547ba-1027-4592-8c38-5c9244a3294c"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9ede9c7cg30feg4117g9903ga0a022b0a788" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="db5f837f-adc1-7c4e-facd-8d06f8b3567d"/>
+                    <attribute id="Name" type="FixedString" value="Purple 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFCE80F0"/>
+                    <attribute id="UUID" type="guid" value="df0b38a8-7fb9-48ef-b0b3-ff269d44e7bc"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0532482bgd203g4ae9gb954gb3192ca1ce5a" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ea59e754-792f-4c3e-85da-dac7bdb06da7"/>
+                    <attribute id="Name" type="FixedString" value="Purple 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC67CE7"/>
+                    <attribute id="UUID" type="guid" value="5a548435-8c6d-496a-bbed-725a6de11c1f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc2c7dfd8ge6f2g45a5gaf09g4aab1dbcdb10" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="3687805a-e163-0a80-4f90-86607a083b44"/>
+                    <attribute id="Name" type="FixedString" value="Purple 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFBE77DE"/>
+                    <attribute id="UUID" type="guid" value="8a5b4f4b-9452-4e4f-92e3-02b1ffc41fee"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd04c9cf9g94a5g46fag8bd0g1284fee628d9" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="06e570a2-6aba-8dc6-c93e-121e7e78d688"/>
+                    <attribute id="Name" type="FixedString" value="Purple 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB672D5"/>
+                    <attribute id="UUID" type="guid" value="2fb2f855-dd68-4e64-9b3f-9ceecf96cfa2"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1acb4600g876ag4b88g85feg84cab60e7f36" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="6d4dd936-36ae-4f8b-ef1c-65be885e0aa8"/>
+                    <attribute id="Name" type="FixedString" value="Purple 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFAD6DCA"/>
+                    <attribute id="UUID" type="guid" value="b9cf6164-1592-4aa3-afe9-3b306e80297f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1b693e92gb4eag4d90gb61cgbe28f5886740" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ed53e6eb-74e1-1419-55fa-4feb322799b1"/>
+                    <attribute id="Name" type="FixedString" value="Purple 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFAD6DCA"/>
+                    <attribute id="UUID" type="guid" value="ebea6c16-1e09-471c-9c63-e9ff10ecd178"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdfe30473gb7b9g4338gacb8gff8dc308aceb" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="7fd32fc3-2156-3c21-61d9-b12eb8eeaeaf"/>
+                    <attribute id="Name" type="FixedString" value="Purple 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFAD6DCA"/>
+                    <attribute id="UUID" type="guid" value="27c28c9b-997e-4789-b786-30680b753f61"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h682fd4ceg0b9fg417ag89f8gb7ebeb18132a" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a7180634-eed3-56e5-3bb9-a5489cfabc61"/>
+                    <attribute id="Name" type="FixedString" value="Purple 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF9B60B4"/>
+                    <attribute id="UUID" type="guid" value="ab1d0006-199e-4aee-9cfa-bdd2920b8ed9"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h91d74248gb58dg4080g8d33gcdee102a63e8" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="e4bcd200-ebc2-9705-7daa-25244b28c6a1"/>
+                    <attribute id="Name" type="FixedString" value="Purple 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF825399"/>
+                    <attribute id="UUID" type="guid" value="f704511d-e18a-4002-ab53-5202c79c6bf4"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h846460bbg377cg480dg9777g8dc87a5bb384" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="3eb82365-114d-c629-acc1-6c5e98b8234c"/>
+                    <attribute id="Name" type="FixedString" value="Purple 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF825298"/>
+                    <attribute id="UUID" type="guid" value="1b5e0923-5cb0-48d9-b9dd-e5370dbf6833"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h187814fag8c0fg4d56g9430g619bdacbe9ec" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a5a56812-20a3-dc2b-a547-f5d3d59a19f1"/>
+                    <attribute id="Name" type="FixedString" value="Purple 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF624273"/>
+                    <attribute id="UUID" type="guid" value="494240b4-49b7-4699-a372-f637da56228e"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb7f07cfcg4a45g4650g9287gbd93855788dd" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="70138da9-314c-b2b3-07b7-b23e8585ee19"/>
+                    <attribute id="Name" type="FixedString" value="Purple 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF4B385A"/>
+                    <attribute id="UUID" type="guid" value="20646a4f-ca5c-41c1-9b1f-f6c427e48732"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h037b8fbfg6e44g45d2ga9fcgae55119ac534" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="07a4d1ef-9177-ceb2-4ff5-05e58adcf9f3"/>
+                    <attribute id="Name" type="FixedString" value="Orange 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFF36C2A"/>
+                    <attribute id="UUID" type="guid" value="bde390d6-fd99-4dfd-b627-ce0f10fdca10"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="he92c5c18g0f7bg4ca9g9a17g74f993507425" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="10bc4728-df2b-4884-d240-c12bd81bcb2d"/>
+                    <attribute id="Name" type="FixedString" value="Orange 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFE16226"/>
+                    <attribute id="UUID" type="guid" value="e4c4ae07-1b45-4012-bca9-4fadc986ec54"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h81cc31efg9911g4871gb47fgde4d9f3b4563" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="0e2005ec-be1e-d982-b360-7414a59d6b30"/>
+                    <attribute id="Name" type="FixedString" value="Orange 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFD75D22"/>
+                    <attribute id="UUID" type="guid" value="dcd6f043-e518-4efd-a2fc-b462fab4e0f1"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0211255cg0153g4d1agb10agbd7d603f8941" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a8492186-c7ba-d5fd-b9e4-9937fae372cf"/>
+                    <attribute id="Name" type="FixedString" value="Orange 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFCD5622"/>
+                    <attribute id="UUID" type="guid" value="92907d5c-250b-4d29-bbfa-993b873a010f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h21027e8bg7f30g49f8gb939gb3bdde26447c" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="cb989bd5-81f6-f982-5918-232c69ce77d0"/>
+                    <attribute id="Name" type="FixedString" value="Orange 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFCD5622"/>
+                    <attribute id="UUID" type="guid" value="d26b7d8f-a3b8-4f0c-a3ec-6b71fc4a674f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h22ff1dfag0012g475cg9212g6ca89c6ed7a4" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5d273d92-ad49-9eae-61b1-af64d73f9fa0"/>
+                    <attribute id="Name" type="FixedString" value="Orange 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC2511C"/>
+                    <attribute id="UUID" type="guid" value="33427f15-3b25-4555-bc49-4e99876c8df9"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hba01ef88g8962g4803ga307gfa4cf2492d70" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="86015070-4414-ab98-82a1-fb2e94902bb7"/>
+                    <attribute id="Name" type="FixedString" value="Orange 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB5491C"/>
+                    <attribute id="UUID" type="guid" value="7dd1ade9-7e71-4405-aae3-89457a625ff7"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf19c9cf9gdf06g4ee4g9dbbge168a8a7f95b" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="488ebeb2-ca75-42a8-4a7d-1f3bfd747a24"/>
+                    <attribute id="Name" type="FixedString" value="Orange 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFA84216"/>
+                    <attribute id="UUID" type="guid" value="7485f9b8-7d17-4853-9b2c-b7f3d93ef93a"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h74cc5756ge25bg4b56gbd63g9b82e09abb53" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="dfcf4e03-5df5-83b7-a554-0aaee8fa9e8e"/>
+                    <attribute id="Name" type="FixedString" value="Orange 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF993816"/>
+                    <attribute id="UUID" type="guid" value="35ecd9ad-21d0-4b74-87bf-b3af1e155342"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h35242785ga942g44d9gbb30g11a216745949" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a1d052c0-2a25-cd60-ac50-1457965f28d1"/>
+                    <attribute id="Name" type="FixedString" value="Orange 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF882E0D"/>
+                    <attribute id="UUID" type="guid" value="2f3e370c-3650-49b8-9468-48e4b4900b59"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcc3515d4gb148g45a9gaf91ga10b52d649f2" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="300a2657-4268-3518-b330-3bf4eebf7da5"/>
+                    <attribute id="Name" type="FixedString" value="Orange 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF731C0D"/>
+                    <attribute id="UUID" type="guid" value="c075a03f-c4bb-46a1-aff1-bc8ff2763525"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1a1ec277ge943g4861gbceegaca8bb85d6ca" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="8e43d04e-6fae-3cd0-6f07-c21fb78a7c5d"/>
+                    <attribute id="Name" type="FixedString" value="Orange 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FF5A0000"/>
+                    <attribute id="UUID" type="guid" value="f4c09527-bbc4-47be-b794-52c20e9ef4e1"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h22ce7dd7gb349g4162g8aceg708ef3613d82" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="557ebd41-65c8-0437-326e-896e8aac7224"/>
+                    <attribute id="Name" type="FixedString" value="Yellow 1"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFF9E955"/>
+                    <attribute id="UUID" type="guid" value="7f7c390b-04ef-401c-987b-29fe66690672"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="had5be776g4efeg47e1ga0e2gd3428398bc35" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="bfaec9d9-5db3-59da-ac33-da06c6927c7e"/>
+                    <attribute id="Name" type="FixedString" value="Yellow 2"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFF4E351"/>
+                    <attribute id="UUID" type="guid" value="dcb6f775-50d5-4428-9c00-e8eab377f6f2"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h52789a87gc3d0g4d46ga853g41fa1ab59834" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ddcb78f5-0ea5-b4a7-d0eb-c81da10c2a90"/>
+                    <attribute id="Name" type="FixedString" value="Yellow 3"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFEEDC4D"/>
+                    <attribute id="UUID" type="guid" value="8493b1a7-1372-4755-9824-78355a944951"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfa0ab5eeg32fag4d7bg8930g82d0cb37e299" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="745bb36f-752f-6ba7-75cc-41c7c7fe794e"/>
+                    <attribute id="Name" type="FixedString" value="Yellow 4"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFE9D649"/>
+                    <attribute id="UUID" type="guid" value="c1d03bd9-cd7f-4b55-bb5f-b8db1f31aa44"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7907957cg4486g41ceg858bge593e044ad79" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="065d9931-c19e-ba27-868a-077ab8fe991c"/>
+                    <attribute id="Name" type="FixedString" value="Yellow 5"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFE3CE45"/>
+                    <attribute id="UUID" type="guid" value="83c8fa10-b3a0-4ff6-b43c-4cad36df778b"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="haf62d420g4e58g4758ga703ga20105eb3c8d" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b247ebde-2fd2-e695-2f69-91bbc5f23b9b"/>
+                    <attribute id="Name" type="FixedString" value="Yellow 6"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFDDC740"/>
+                    <attribute id="UUID" type="guid" value="e5d16d03-ca7b-4276-aea7-113f827ae3d5"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26787546g2d87g451fgb050g2847d5cbd746" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="aae0e141-ece1-52a1-6188-c85f8df65cdf"/>
+                    <attribute id="Name" type="FixedString" value="Yellow 7"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFD7BF3B"/>
+                    <attribute id="UUID" type="guid" value="0a43273f-274a-40d1-9795-e049c722de40"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h350cbeeeg6cd3g4446g937agab2b1c968e88" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="dcc3fcb1-f053-93ea-ab57-402bcc9d2ea9"/>
+                    <attribute id="Name" type="FixedString" value="Yellow 8"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFD0B735"/>
+                    <attribute id="UUID" type="guid" value="943758bd-3690-456c-a012-3153abf7ab69"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h827be51fg1325g4a83gb730gd72e2f0f6bd0" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a4c9ff42-b15f-9223-f371-606b941c46a0"/>
+                    <attribute id="Name" type="FixedString" value="Yellow 9"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFCAAE2E"/>
+                    <attribute id="UUID" type="guid" value="0522340e-ab3e-4a6b-b921-f1f76f5cef24"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha2a9e057g4e69g4b5cg8a3agc248e09b9727" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b3d107a4-4e27-2ce0-72f0-8082fea534a8"/>
+                    <attribute id="Name" type="FixedString" value="Yellow 10"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC2A526"/>
+                    <attribute id="UUID" type="guid" value="ba1ec10d-6c4b-43f5-8f5a-b20416e92e44"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3235f064gb93fg489eg96c7g4efe1417a04a" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="0ceca740-309a-52ea-6a55-9331cd0c755e"/>
+                    <attribute id="Name" type="FixedString" value="Yellow 11"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFBB9B1C"/>
+                    <attribute id="UUID" type="guid" value="050044af-6665-4bf4-ae38-fc899732c98c"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h64faaef6ge94ag4376gae47g9d47a7d83a0b" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="7b59f5a3-2cb6-6929-26e2-07da844b9bf8"/>
+                    <attribute id="Name" type="FixedString" value="Yellow 12"/>
+                    <attribute id="SkinType" type="FixedString" value="GemmaTora"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB3900D"/>
+                    <attribute id="UUID" type="guid" value="778cd2e4-ba14-4779-81b6-0456d0c1cca8"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

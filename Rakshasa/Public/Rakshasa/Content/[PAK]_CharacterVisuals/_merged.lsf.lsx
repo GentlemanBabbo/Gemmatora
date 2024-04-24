@@ -71,7 +71,7 @@
 					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
 					<attribute id="BodySetVisual" type="FixedString" value="5e4ac7b4-9d77-4d7d-af5d-ca8798a17bc2" />
 					<attribute id="ID" type="FixedString" value="77be99d9-82f4-4671-956d-af0c71739472" />
-					<attribute id="Name" type="LSString" value="Rakshasa_Female_Subrace1_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Female_Sapphire_Player" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
@@ -84,7 +84,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e031f565-bcf3-44ed-984a-328633552747" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="6ea9be9e-dcc3-e6ea-b43e-a98c1ea3dce9" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -133,7 +133,7 @@
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" /> base animations
 					<attribute id="BodySetVisual" type="FixedString" value="5144040e-471e-4e71-a326-83cc551846fd" /> body model
 					<attribute id="ID" type="FixedString" value="922508bf-0c37-4c1f-9c38-3fe6bd360a18" />
-					<attribute id="Name" type="LSString" value="Rakshasa_Male_Subrace1_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Male_Sapphire_Player" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
@@ -146,7 +146,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e031f565-bcf3-44ed-984a-328633552747" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="6ea9be9e-dcc3-e6ea-b43e-a98c1ea3dce9" />
 										</node>										
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -190,7 +190,7 @@
 					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
 					<attribute id="BodySetVisual" type="FixedString" value="5e4ac7b4-9d77-4d7d-af5d-ca8798a17bc2" />
 					<attribute id="ID" type="FixedString" value="e843c4ab-74df-45ff-a355-78762291d9cf" />
-					<attribute id="Name" type="LSString" value="Rakshasa_Female_Subrace2_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Female_Jade_Player" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
@@ -203,7 +203,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="9c9c86ed-d0a2-4326-9b9f-86cf80836cd1" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="0393a466-c251-40fa-3141-97e2d3b5cdd1" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -252,7 +252,7 @@
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" /> base animations
 					<attribute id="BodySetVisual" type="FixedString" value="5144040e-471e-4e71-a326-83cc551846fd" /> body model
 					<attribute id="ID" type="FixedString" value="6ed6f1a8-2014-4dad-ac84-7014a2524c08" />
-					<attribute id="Name" type="LSString" value="Rakshasa_Male_Subrace2_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Male_Jade_Player" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
@@ -265,7 +265,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="9c9c86ed-d0a2-4326-9b9f-86cf80836cd1" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="0393a466-c251-40fa-3141-97e2d3b5cdd1" />
 										</node>										
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -309,7 +309,7 @@
 					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
 					<attribute id="BodySetVisual" type="FixedString" value="5e4ac7b4-9d77-4d7d-af5d-ca8798a17bc2" />
 					<attribute id="ID" type="FixedString" value="3a3460bd-b0e2-44c7-b2fa-38cc6a5020ef" />
-					<attribute id="Name" type="LSString" value="Rakshasa_Female_Subrace3_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Female_Ruby_Player" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
@@ -322,7 +322,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="99cb4e4b-c22e-461d-af7d-f36c37cff9f7" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="5658b5cb-768c-cc58-3e20-c29bd005120d" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -371,7 +371,7 @@
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" /> base animations
 					<attribute id="BodySetVisual" type="FixedString" value="5144040e-471e-4e71-a326-83cc551846fd" /> body model
 					<attribute id="ID" type="FixedString" value="19d534c0-d486-499c-86aa-d7f3539d947c" />
-					<attribute id="Name" type="LSString" value="Rakshasa_Male_Subrace3_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Male_Ruby_Player" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
@@ -384,7 +384,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="99cb4e4b-c22e-461d-af7d-f36c37cff9f7" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="5658b5cb-768c-cc58-3e20-c29bd005120d" />
 										</node>										
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -428,7 +428,7 @@
 					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
 					<attribute id="BodySetVisual" type="FixedString" value="5e4ac7b4-9d77-4d7d-af5d-ca8798a17bc2" />
 					<attribute id="ID" type="FixedString" value="97875617-498a-4eaa-a3c4-14e1770f8122" />
-					<attribute id="Name" type="LSString" value="Rakshasa_Female_Subrace4_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Female_Topaz_Player" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
@@ -441,7 +441,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="1573c1aa-e19b-460c-b37c-cddf7fa75c2b" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="b3883dd1-47c1-72d5-d635-4c2e270d11e0" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -490,7 +490,7 @@
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" /> base animations
 					<attribute id="BodySetVisual" type="FixedString" value="5144040e-471e-4e71-a326-83cc551846fd" /> body model
 					<attribute id="ID" type="FixedString" value="6fd4b2f9-7e0f-481b-992e-e36fe2ef578b" />
-					<attribute id="Name" type="LSString" value="Rakshasa_Male_Subrace4_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Male_Topaz_Player" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
@@ -503,7 +503,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="1573c1aa-e19b-460c-b37c-cddf7fa75c2b" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="b3883dd1-47c1-72d5-d635-4c2e270d11e0" />
 										</node>										
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />

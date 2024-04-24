@@ -46,7 +46,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="14a7d42c-9b60-4b06-ad01-3df5d627a09d" /> must be unique
-					<attribute id="Name" type="LSString" value="Rakshasa_Female_Subrace1_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Female_Sapphire_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="695a790f-b7aa-4a0b-b9ec-8ef2a34b32e9" />
@@ -54,6 +54,7 @@
 					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
 					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> dont change
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="77be99d9-82f4-4671-956d-af0c71739472" /> which models to load
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
 					<attribute id="Race" type="guid" value="6aa62e67-914a-46a0-b1be-5ae28c33bac0" /> define race as Custom Race
@@ -71,6 +72,9 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
 									<attribute id="Object" type="guid" value="0153647f-3da2-4c19-95f1-1d34bbfeae7d" /> Custom Sub Race tag
 								</node>
 							</children>
@@ -81,7 +85,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="624912e5-0a87-4286-96a6-01d5712af902" /> must be unique
-					<attribute id="Name" type="LSString" value="Rakshasa_Male_Subrace1_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Male_Sapphire_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="2354e7b8-5e2c-46f6-ab00-232c07820eed" />
@@ -116,7 +120,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="5c2704ce-649e-46a9-aea6-773774e8f0be" /> must be unique
-					<attribute id="Name" type="LSString" value="Rakshasa_Female_Subrace2_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Female_Jade_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="695a790f-b7aa-4a0b-b9ec-8ef2a34b32e9" />
@@ -124,6 +128,7 @@
 					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
 					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> dont change
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e843c4ab-74df-45ff-a355-78762291d9cf" /> which models to load
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
 					<attribute id="Race" type="guid" value="94bec64b-7186-49c5-a1a6-b6e72bef2705" /> define race as Custom Race
@@ -141,6 +146,9 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
 									<attribute id="Object" type="guid" value="0153647f-3da2-4c19-95f1-1d34bbfeae7d" /> Custom Sub Race tag
 								</node>
 							</children>
@@ -151,7 +159,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="c483830f-02eb-48e5-af4c-2ea2d6dd6bb5" /> must be unique
-					<attribute id="Name" type="LSString" value="Rakshasa_Male_Subrace2_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Male_Jade_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="2354e7b8-5e2c-46f6-ab00-232c07820eed" />
@@ -186,7 +194,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="c68f130b-1b73-4591-8d77-bd776c91bc0e" /> must be unique
-					<attribute id="Name" type="LSString" value="Rakshasa_Female_Subrace3_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Female_Ruby_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="695a790f-b7aa-4a0b-b9ec-8ef2a34b32e9" />
@@ -194,6 +202,7 @@
 					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
 					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> dont change
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="3a3460bd-b0e2-44c7-b2fa-38cc6a5020ef" /> which models to load
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
 					<attribute id="Race" type="guid" value="382d4e23-7d92-4e6a-960e-88a7c8741db2" /> define race as Custom Race
@@ -211,6 +220,9 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
 									<attribute id="Object" type="guid" value="0153647f-3da2-4c19-95f1-1d34bbfeae7d" /> Custom Sub Race tag
 								</node>
 							</children>
@@ -221,7 +233,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="a165d1fc-e1a7-4970-b664-9a0a9076abcc" /> must be unique
-					<attribute id="Name" type="LSString" value="Rakshasa_Male_Subrace3_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Male_Ruby_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="2354e7b8-5e2c-46f6-ab00-232c07820eed" />
@@ -256,7 +268,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="3e3f6cbd-24a3-4d23-8dd0-93d3621f0741" /> must be unique
-					<attribute id="Name" type="LSString" value="Rakshasa_Female_Subrace4_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Female_Topaz_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="695a790f-b7aa-4a0b-b9ec-8ef2a34b32e9" />
@@ -264,6 +276,7 @@
 					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
 					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> dont change
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="97875617-498a-4eaa-a3c4-14e1770f8122" /> which models to load
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
 					<attribute id="Race" type="guid" value="6698852b-2cd2-443d-be95-c8d6ba1de248" /> define race as Custom Race
@@ -281,6 +294,9 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
 									<attribute id="Object" type="guid" value="0153647f-3da2-4c19-95f1-1d34bbfeae7d" /> Custom Sub Race tag
 								</node>
 							</children>
@@ -291,7 +307,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="fce132d1-70ac-48c6-a9be-82c43def1cb7" /> must be unique
-					<attribute id="Name" type="LSString" value="Rakshasa_Male_Subrace4_Player" />
+					<attribute id="Name" type="LSString" value="Rakshasa_Male_Topaz_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="2354e7b8-5e2c-46f6-ab00-232c07820eed" />

@@ -8,7 +8,7 @@
             <attribute id="Description" type="TranslatedString" handle="hf6327eabgcd15g4a95gb92cg04dafdecf4ac" version="1" />   description race 
             <attribute id="DisplayName" type="TranslatedString" handle="h81a6c859gdca3g4485g8678g835daa3544bb" version="1" />   subrace
             <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> leave this as humanoid
-            <attribute id="Name" type="FixedString" value="Gemma Tora" />       internal name for race
+            <attribute id="Name" type="FixedString" value="GemmaTora" />       internal name for race
             <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" />      subrace of Humanoid, dont touch
             <attribute id="ProgressionTableUUID" type="guid" value="0b2c0c4d-00d3-4f49-99e4-52c5910dd88d" />    the level up stuff under the Progressions folder, diff from subrace
             <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />           sound it makes when you select the race
@@ -2093,374 +2093,413 @@
                         <node id="MakeupColors">
                             <attribute id="Object" type="guid" value="e2a2383e-4c83-45f4-9fd0-4cb215897c35" />
                         </node>
-                    <!--Skin Colors-->
+                <!--Skin Colors-->
+                    <!--Black-->
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="a5b87222-c3b5-4cfe-aef9-8841f93a7f91"/>
+                            <attribute id="Object" type="guid" value="acf430e6-ef04-474c-b9e0-ce48b78ca9b3"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="213bb5c6-cbe4-4f45-92c4-e30998454cd7"/>
+                            <attribute id="Object" type="guid" value="7492c4e9-7c39-4648-82be-6c14e3c15b7f"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="ad3e13ad-7428-4bb2-8b04-0e3928b78a47"/>
+                            <attribute id="Object" type="guid" value="c924b747-a36c-4e3e-8931-6456649df8e7"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="6a3ecbcb-1a63-4dd7-b676-f69d05122f13"/>
+                            <attribute id="Object" type="guid" value="e22411cb-480e-470c-8615-c33f8f8b13ea"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="028b5911-2f0f-43d7-81ec-a545ff896944"/>
+                            <attribute id="Object" type="guid" value="04ab5b6b-222b-41d4-ba5b-0ce09bc8ec6a"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="dd797b6b-ddfe-47c8-8ce6-21f531dfd0c4"/>
+                            <attribute id="Object" type="guid" value="b1faaa8c-a630-43a5-9d1b-2badfd741d85"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="83d75032-5194-4f1c-aaa0-e1e03d0b1e52"/>
+                            <attribute id="Object" type="guid" value="9299161d-35f7-4d2d-8500-bb1d2094695a"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="560948aa-d63c-4082-b8eb-60e00ec5efb4"/>
+                            <attribute id="Object" type="guid" value="b8896207-5457-4b99-b628-baa6f0b34c78"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="d9ca99a3-7da8-4222-a2b7-285006e42875"/>
+                            <attribute id="Object" type="guid" value="3902192f-4a15-4558-8300-69602c2707e6"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="4ff1f86e-723f-43a1-9145-d846149d17ad"/>
+                            <attribute id="Object" type="guid" value="89a76555-df98-41bd-a599-110ff17cd80e"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="edecf077-9d6f-4450-b223-76fe6a04342e"/>
+                            <attribute id="Object" type="guid" value="3f7e1ed5-df81-4e98-9248-33e380f131de"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="c42ce389-2221-4291-a5e5-8bcdd9dd0d19"/>
+                            <attribute id="Object" type="guid" value="ae230ecb-140d-4411-a716-079f51577e90"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="6ae248df-5641-4363-b1b5-9c789beafcef"/>
+                            <attribute id="Object" type="guid" value="aade35cb-8e4d-4d4d-9c18-b31332239c16"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="fbb0eac9-9c89-4bee-9829-23aeefa62aa7"/>
+                            <attribute id="Object" type="guid" value="fda8212d-61a2-44af-8027-ffed77863134"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="de03fc3d-df57-4918-8058-678df1172b12"/>
+                            <attribute id="Object" type="guid" value="0f778f72-a3ce-4cef-9817-3645c1fe3e1f"/>
                         </node>
+                    <!--Blue-->
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="664208cd-4153-4fd4-b6ff-6eab2853494b"/>
+                            <attribute id="Object" type="guid" value="02e233ab-7ec0-4b78-bec2-15ebf367d275"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="fecdd178-ae27-41d6-abf4-6c0ae96c1878"/>
+                            <attribute id="Object" type="guid" value="dba316a5-b10b-4c1d-af42-3affadee9a17"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="156d899c-23f9-4c97-9bbf-d1f47227ffe9"/>
+                            <attribute id="Object" type="guid" value="c3bb45f6-5a3d-4871-95eb-001526383514"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="f4be4455-9efa-493a-a271-129bf1ea77f4"/>
+                            <attribute id="Object" type="guid" value="5ed678bc-5bf5-444c-b148-3be51543fa2a"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="c1fec0a3-0ea3-4203-8325-7f67967a6074"/>
+                            <attribute id="Object" type="guid" value="bf6723a2-23cd-49c7-a0ad-1b0f401e3cfe"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="f1097fc6-96ad-4a44-b9be-c08565bb5a0d"/>
+                            <attribute id="Object" type="guid" value="25cd843d-7e5e-4ba1-94e4-d90e9b528561"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="73c95ed5-da43-4f2f-a26f-9341e8ff4e37"/>
+                            <attribute id="Object" type="guid" value="e8093be8-c510-4eae-b264-e51f70fa76f9"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="f5b03fac-53f1-4354-9a59-d5648fd7e678"/>
+                            <attribute id="Object" type="guid" value="1321356e-4be3-4188-bf3d-9764f11c9aa2"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="210982e5-761a-4975-a86a-84fc12a383a0"/>
+                            <attribute id="Object" type="guid" value="1dc9656d-1fda-40d5-ba9c-f3fd8f97990e"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="10f0e5aa-60a5-4d77-9cb4-a3adde2cd226"/>
+                            <attribute id="Object" type="guid" value="56781157-51aa-483a-9a1c-10cb90a1ea4d"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="e031f565-bcf3-44ed-984a-328633552747"/>
+                            <attribute id="Object" type="guid" value="12149fe5-b886-42df-aa3e-66a43c974711"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="a7e26ba5-0640-4c91-a0cd-9435aaec2bd5"/>
+                            <attribute id="Object" type="guid" value="9b092b14-a767-4b49-834f-edb300adc759"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="3ae332be-d4c0-4ead-8d0e-558e18e15353"/>
+                            <attribute id="Object" type="guid" value="4cb703d6-8cd6-4baf-9492-ced80e2a34fe"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="318b27e3-984b-4e2f-b6bc-c05082b453bd"/>
+                            <attribute id="Object" type="guid" value="a51b808b-c2ae-44ba-879d-3d08488f661a"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="5ecad86c-8bd1-4774-aa57-dc4a9481a3cf"/>
+                            <attribute id="Object" type="guid" value="d40ab4a7-2045-48ce-9f62-1593be023a5d"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="ea350602-4c56-441a-a6e5-7f724b8c5058"/>
+                            <attribute id="Object" type="guid" value="6f70569e-7f84-48db-98d1-e356cba5dfcd"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="8e81fe7b-1da1-4926-975b-47f041bd0bc2"/>
+                            <attribute id="Object" type="guid" value="62c31525-4e5b-4d41-9dc9-8c4e80ea7838"/>
                         </node>
+                    <!--Brass-->
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="df6f819e-b9dd-414d-91e9-2729b15538ad"/>
+                            <attribute id="Object" type="guid" value="d82443b4-47ff-40ff-918d-af7f539c1fc7"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="19ffaa14-9890-440d-adcf-7b24505e04bc"/>
+                            <attribute id="Object" type="guid" value="548d736c-dd71-4abd-b06b-1d0d255985ba"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="561dc402-b5f5-4391-9c6d-c382f237e6f8"/>
+                            <attribute id="Object" type="guid" value="ee13aaf5-6eee-4c1a-a326-62595ff0cd7e"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="6e7dd808-53af-4a0f-9abf-cd187cff2cd9"/>
+                            <attribute id="Object" type="guid" value="e8f58b73-c92a-4bbb-bd24-124dcb39e990"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="f402a4d9-f1ae-47c3-b341-c05656366842"/>
+                            <attribute id="Object" type="guid" value="aab7ba23-9a1f-4778-ac8d-09c6c8cb0aae"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="7f18901d-9eec-432b-bbde-035b442af8a0"/>
+                            <attribute id="Object" type="guid" value="30f5110f-5ecd-4566-a947-b3a3745a4743"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="89dff49d-993a-4763-8246-888bbef6de61"/>
+                            <attribute id="Object" type="guid" value="2730ac4a-a6e7-4486-a248-533ed1bfd219"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="d9dcbdb7-3744-4dcc-841f-4c52de2b0873"/>
+                            <attribute id="Object" type="guid" value="084d1792-7ec3-4856-a3fa-063f0b928724"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="9d6a477e-ec39-4136-abf7-10a6c5429a61"/>
+                            <attribute id="Object" type="guid" value="9199a42e-70eb-4514-9aa2-62e5e86ed5b5"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="d6818173-2e7d-4b28-9ef7-756bde9b9ecf"/>
+                            <attribute id="Object" type="guid" value="596b8076-8e86-4f2e-87ac-d8c94cc1f319"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="e93779ca-574c-4f04-aa94-ae0fab9f142c"/>
+                            <attribute id="Object" type="guid" value="b24dc85c-3bc1-47a0-a4ed-f7bbf9af10ea"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="b93f4462-4709-468a-a646-44394bdfc0c4"/>
+                            <attribute id="Object" type="guid" value="48e0f0a3-8c8f-4788-add8-6d1c4f3031e3"/>
                         </node>
+                    <!--Bronze-->
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="e131ba0d-c58c-40fd-97da-fbb1b14c8555"/>
+                            <attribute id="Object" type="guid" value="014d9cf5-4b09-48f6-aede-81ed68a7f96d"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="938d8bb2-c487-4245-9097-71e1f6f77b70"/>
+                            <attribute id="Object" type="guid" value="5203adfd-e9c9-4151-b76d-8179ae72eb47"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="d5d3fd3a-9da8-49ea-a01a-7e0ab6faf992"/>
+                            <attribute id="Object" type="guid" value="ae6d8368-5fa3-499c-8823-a03986f1d6f0"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="c848b2b8-3332-4c53-b06e-58adaeb947d0"/>
+                            <attribute id="Object" type="guid" value="014d9cf5-4b09-48f6-aede-81ed68a7f96d"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="3397c2f6-76b9-4a89-a90e-c1f5a5160b56"/>
+                            <attribute id="Object" type="guid" value="5203adfd-e9c9-4151-b76d-8179ae72eb47"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="b7ab296a-1045-4eee-a751-f3d1e07b8412"/>
+                            <attribute id="Object" type="guid" value="08b40a76-dff3-4afa-90da-8891de15b2a4"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="c1934974-1b60-478d-9c59-053834d259f4"/>
+                            <attribute id="Object" type="guid" value="0e52be68-c5b8-4d7b-9584-72f2994f500d"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="eceafed6-aec8-4ea5-9a1d-38aae5ae19eb"/>
+                            <attribute id="Object" type="guid" value="09670fd5-e810-40d8-8c52-9559908645c7"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="f644533c-0f99-44f7-88b1-0e9e7dc3c94d"/>
+                            <attribute id="Object" type="guid" value="7c0fdb68-5aba-46f1-975f-cda91809f83f"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="1f935170-73e7-4e51-a9b9-9ac3b986c7dd"/>
+                            <attribute id="Object" type="guid" value="fa24770f-f30d-4795-848f-801ab105c797"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="9ce71897-1775-4f29-b7c3-529fc7c08438"/>
+                            <attribute id="Object" type="guid" value="a7db95f7-f96a-489b-956c-e3b3294ae2fe"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="ce736f39-b6df-44be-9f18-0a2307d5683f"/>
+                            <attribute id="Object" type="guid" value="037f0e6b-2019-46be-be2b-91b7936c83a4"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="636d1cb7-e763-48c6-9ae5-2d05ed305803"/>
+                            <attribute id="Object" type="guid" value="eb6a6712-1340-4325-b993-c97a06d43520"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="3c73fcc4-249a-4f3b-a585-765faea43f7c"/>
+                            <attribute id="Object" type="guid" value="369dc42e-6755-403e-9295-c50498f91f9a"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="b397eac6-ab35-4829-98d7-b977c2c1dfc4"/>
+                            <attribute id="Object" type="guid" value="702d4cdc-4815-4a5f-96fd-5206ca1820cb"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="f1e3d462-bb3e-4433-bbeb-31c530e1eb2c"/>
+                            <attribute id="Object" type="guid" value="cdceba3e-9068-431a-b346-8baf0963c37d"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="f4d2c859-5ec7-4cad-aac5-ccab534eb087"/>
+                            <attribute id="Object" type="guid" value="2f6de519-5ae9-4b4a-b604-2f4b5a8bc952"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="3b2b962f-7c15-418f-8106-4ea887643a3c"/>
+                            <attribute id="Object" type="guid" value="8dc204c3-7d83-4755-9f9a-06dbd0b5b736"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="5f485d79-366d-462b-967c-a2291164d2c2"/>
+                            <attribute id="Object" type="guid" value="44a4554b-00c1-451a-880a-87d3470a198a"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="0331ea11-99b1-4dc3-a39a-c85a83e60c42"/>
+                            <attribute id="Object" type="guid" value="78bfcb16-62a1-47d2-b9db-abdec6700bf6"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="2b478293-2ea1-40f7-bc34-5954e65536e7"/>
+                            <attribute id="Object" type="guid" value="0c2c4ad1-7ea3-48f7-bfcd-e8b1cf3cf158"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="64fa0023-8472-471c-952e-d6468654f5c4"/>
+                            <attribute id="Object" type="guid" value="6d0d557a-49a2-49a4-be30-66ba102fdf9a"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="cd2d4cb7-53ff-462e-80e8-ebb10bdc2258"/>
+                            <attribute id="Object" type="guid" value="1c207631-1d4d-46f2-9d66-96f0f7389f79"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="1cf2b807-f577-42b8-be21-ee5c53d2a88a"/>
+                            <attribute id="Object" type="guid" value="4fff9376-3457-4e89-84f6-8cc54c891bab"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="99fb93a0-950b-4000-a51b-7f74a30bcc81"/>
+                            <attribute id="Object" type="guid" value="5ae9a9f9-7e6e-48b7-ac60-5a9ca84c15a7"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="b21a7b40-4390-4dda-a9b7-adba1a72cf89"/>
+                            <attribute id="Object" type="guid" value="8f91be14-0a67-4397-b19a-14bcf6dcf53f"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="1547238a-6988-46ea-af42-a71305178651"/>
+                            <attribute id="Object" type="guid" value="eb976a2b-234f-4389-8057-2b5d676ed027"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="1573c1aa-e19b-460c-b37c-cddf7fa75c2b"/>
+                            <attribute id="Object" type="guid" value="8eabcc93-d652-45c9-aed7-b22fe4fe719e"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="ce0ed12a-687a-4198-88b2-be2f7c5eb674"/>
+                            <attribute id="Object" type="guid" value="7f2d8841-453e-41d2-bee6-5e66b6aac817"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="1ded8940-48d4-4057-a8b0-54765b5b097f"/>
+                            <attribute id="Object" type="guid" value="b6356a21-47e6-418a-acb7-14e30acd669e"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="0e3dfcb1-668a-49ac-99ff-b7e3989dcf84"/>
+                            <attribute id="Object" type="guid" value="46a1cd59-3f0b-4466-91f5-958fa72e10c9"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="f9e06132-d4c9-42a2-b367-d30854a73aa3"/>
+                            <attribute id="Object" type="guid" value="38f030a4-86bc-4592-abbc-2c3f746c3596"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="4db16a81-ee12-4dee-adc2-ebdfdfdd89d4"/>
+                            <attribute id="Object" type="guid" value="a17a9937-e632-45c6-8de1-7055202c0bd2"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="568c5655-2cdc-45cb-9dc8-19db7a06c2ed"/>
+                            <attribute id="Object" type="guid" value="565af4f9-3f09-4d6a-8e30-f1a67ec74503"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="34fdf822-aecb-4ed7-ab2d-75c583e994fd"/>
+                            <attribute id="Object" type="guid" value="75d579c6-2a8a-403a-a215-5289cbfd9e40"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="e3f6357d-2daa-48ff-afef-fd42467c4296"/>
+                            <attribute id="Object" type="guid" value="37dc835e-48e5-4173-a409-121fb7608c8c"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="c0a72560-3415-4fbb-8984-aa9d12cc036b"/>
+                            <attribute id="Object" type="guid" value="58076c24-a4ed-450c-9f32-65e0077cc08d"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="e2d99baf-082d-4142-86f8-6e662856a0e7"/>
+                            <attribute id="Object" type="guid" value="ad53f66e-d7c5-4449-9cbb-9eb6d110e4de"/>
                         </node>
+                    <!--Green-->
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="ec0792c1-c41e-4c9b-962e-87e9edacf19e"/>
+                            <attribute id="Object" type="guid" value="f7aaa344-b8fa-409a-be97-91e47b0990a4"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="9c9c86ed-d0a2-4326-9b9f-86cf80836cd1"/>
+                            <attribute id="Object" type="guid" value="a59b9ff4-2c86-40e2-8753-26d542e13e98"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="16e59c85-6b2c-47f1-9a65-89b606dacc12"/>
+                            <attribute id="Object" type="guid" value="2f2f9d09-287b-4335-b07b-7554e8f62d70"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="a009c810-8a8b-4ccb-8041-20497d693ac8"/>
+                            <attribute id="Object" type="guid" value="ee13a030-bdb4-490c-a23a-5c0e4df20715"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="d8ea213d-b3a8-4a78-9980-f5c73d549f08"/>
+                            <attribute id="Object" type="guid" value="49966bac-2609-4ecd-88d9-a308ef555df9"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="7d1e71fd-22c0-4b7f-a5fe-92d21c63d84d"/>
+                            <attribute id="Object" type="guid" value="27959e16-9d52-449d-bf07-b28caa97e39a"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="b7ceb26c-a28d-43cc-95c8-85e74a9c92e4"/>
+                            <attribute id="Object" type="guid" value="3e13db75-fc2d-4f2e-8192-1493c583100f"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="f45ad50c-4bfb-4397-8c98-8e18f43dc3ee"/>
+                            <attribute id="Object" type="guid" value="602946ce-1c5e-4d58-b2e7-29003eaab97c"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="99cb4e4b-c22e-461d-af7d-f36c37cff9f7"/>
+                            <attribute id="Object" type="guid" value="6805a2fa-600e-42f7-993d-e9222fea6b01"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="c14d1f71-dbda-4783-b421-eb1e7035a2b5"/>
+                            <attribute id="Object" type="guid" value="78a6ecc6-df72-404d-a93d-fc206775523b"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="bb006acb-0dff-498c-9616-c9e5238937ce"/>
+                            <attribute id="Object" type="guid" value="8978fa9e-b3cc-487d-afe7-3d12bcb40048"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="6158635f-dc17-4a91-99f4-86afd412995d"/>
+                            <attribute id="Object" type="guid" value="d6df8dac-ced7-46c4-8ea1-e3c3984a28b3"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="baf057c5-e29a-4e82-ac80-32cef6db7fdc"/>
+                            <attribute id="Object" type="guid" value="a9bf2153-af7c-4a23-bc32-d94a6bd41ec4"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="1db79a81-ec4f-4a71-968e-502c715de81f"/>
+                            <attribute id="Object" type="guid" value="e145f571-4adb-4062-ab2b-6c3da5b89ca1"/>
                         </node>
+                    <!--Red-->
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="e5502967-35ae-4982-8d3d-4561a1137b34"/>
+                            <attribute id="Object" type="guid" value="d739f914-ce07-45c9-8766-69369dc819ec"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="b13764c6-857c-4977-86b1-9e2970035472"/>
+                            <attribute id="Object" type="guid" value="c000de61-696e-4739-8f55-e475c065b4c0"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="5480f227-3917-4916-971a-97c15c263a82"/>
+                            <attribute id="Object" type="guid" value="3f5d10af-473a-42af-b3e7-06656e400641"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="53b13964-fa1d-4f1c-b9eb-f09a2a349fb9"/>
+                            <attribute id="Object" type="guid" value="4ad2b374-aea7-4cc0-9a01-6dab170af418"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="52b39e0d-779d-4acc-8415-0c525e755da4"/>
+                            <attribute id="Object" type="guid" value="a100f5e1-8577-4510-ac0d-178d245d1a5b"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="25acf776-223c-4147-b27f-80dce6afe5f5"/>
+                            <attribute id="Object" type="guid" value="8d3efa1e-9fa1-4105-a138-38cb7d958446"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="066ed668-c967-4d89-87b0-1cd9de7c9c08"/>
+                            <attribute id="Object" type="guid" value="43af498b-5a2f-476f-b305-a537486001e4"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="f00aae22-8ba3-449f-8b2d-2d8b973bdb3c"/>
+                            <attribute id="Object" type="guid" value="3b11ba4d-212e-4756-93f1-0c80b879c7e6"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="24a7403e-d707-4fbc-8540-85189cb840dd"/>
+                            <attribute id="Object" type="guid" value="c25d4295-de55-4c84-83c3-813cd8d9b43d"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="31917cf2-0ed0-4abb-943b-33b0e121fe2e"/>
+                            <attribute id="Object" type="guid" value="ad4b0994-eaab-4c2b-afc8-18fa3b84d344"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="74ef6f02-03b3-478b-a1d6-2f0979b6a445"/>
+                            <attribute id="Object" type="guid" value="ebc19448-4d49-4470-8ce6-0b8817788d23"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="1c362dc7-e20e-4ac0-af9c-aeaabe91b650"/>
+                            <attribute id="Object" type="guid" value="a24b5a4b-f901-4329-bac6-92eff1cf181c"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="f954c5ec-9837-4aca-ba11-130d138c9a79"/>
+                            <attribute id="Object" type="guid" value="6831bf5f-75e7-42cb-b563-f3194d927d77"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="295382da-292e-4509-adf0-5b320bfadf28"/>
+                            <attribute id="Object" type="guid" value="f367f790-56d1-44b3-a15f-d03b9d4a4dbc"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="1c6b399b-9288-47bb-8fab-98a1d1f8ba0e"/>
+                            <attribute id="Object" type="guid" value="07517633-36e0-4561-9d0d-aaac61679fa2"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="ec6cef48-ba65-4c1b-be00-d88dec6a411c"/>
+                            <attribute id="Object" type="guid" value="87d9c71e-ef66-4f65-9114-fc8279cbd1f6"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="7b2b4995-c1b6-40dd-8775-de7b020e5a35"/>
+                            <attribute id="Object" type="guid" value="1edc3f9b-b373-457d-8922-e6bef41e1b43"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="3d7cd783-0aee-4a13-9352-0a1efe3a112f"/>
+                            <attribute id="Object" type="guid" value="4edb4a5d-17c0-452e-b5b9-56c6adb6af00"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="04ef4c83-3125-4f97-93b2-e2a14f6232a9"/>
+                            <attribute id="Object" type="guid" value="d1088caa-0ca9-4170-add8-17a37e576e0f"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="d4f70cac-b477-4bc7-b953-271987fe48f1"/>
+                            <attribute id="Object" type="guid" value="1f674139-8c66-40bf-b9f0-6083e20a6666"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="fdc1ad98-7407-4616-aa8c-b6826bda015b"/>
+                            <attribute id="Object" type="guid" value="023c95ee-7a2a-46f7-a315-ed03bb14f90d"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="ade3da1a-2aa4-461d-8f0f-a318cd44b356"/>
+                            <attribute id="Object" type="guid" value="0527ee58-2542-458d-ac4b-2881ba705d2e"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="95cb43bf-d775-490e-9153-ddcf28d24a5e"/>
+                            <attribute id="Object" type="guid" value="61843fde-49b2-4726-bb1c-5a78a03f6a9d"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="a86a7c3f-c9d4-4a91-b9d8-cd9f5ef2bf00"/>
+                            <attribute id="Object" type="guid" value="7ab1695c-13cf-45d7-87ba-243f3df4fffe"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="c5bbbc5f-32c8-43a3-a97f-38743f11d546"/>
+                            <attribute id="Object" type="guid" value="613a119b-28ca-40bf-8a00-db78c6510a8d"/>
                         </node>
                         <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="61cac7cd-f475-4582-a815-e12287ff54cd"/>
+                            <attribute id="Object" type="guid" value="2577474c-f3f8-473c-b731-34cb0dbc7ae5"/>
                         </node>
-                    <!--Tattoo Colors-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="5906cef2-cf90-4697-bd2b-3ca09ec870e4"/>
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="b2822ff7-f42f-42f1-a732-a7971ae8aeff"/>
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="9b08eba3-5d32-45e2-930d-972b7e2ccad4"/>
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="170c610f-a9e3-44a1-aa05-0237a7a1a5cc"/>
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="4483358a-6a11-4211-8e1a-9d855adcad3d"/>
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="e6bf4fbf-4a32-4465-97e8-a4698e59a097"/>
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="88a552fb-2fcb-42c1-a7ba-d4931db647f9"/>
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="4a3bf59b-2d76-48c9-97ca-56e539c57e15"/>
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="d84be73e-28ae-4d53-93b6-31731caaf108"/>
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="cbd260db-6c38-4399-aa4d-24a5883d5413"/>
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="81d547ba-1027-4592-8c38-5c9244a3294c"/>
+                        </node>
+                <!--Tattoo Colors-->
                         <node id="TattooColors">
                             <attribute id="Object" type="guid" value="8f8019ae-4c7d-4871-8479-1219fbf6ba7e" />
                         </node>
