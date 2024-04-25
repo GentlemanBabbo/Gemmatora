@@ -59,7 +59,7 @@
                   <attribute id="Name" type="LSString" value="Topaz Tora" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(6bb74a08-d0e0-4b0c-8cb2-0f25d2c727c3,,,,AlwaysPrepared)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="336c54ca-912e-4ced-98f4-f6453546dda6" /> Always use this one for races.lsx, says this progression node is for Sub Race
                   <attribute id="UUID" type="guid" value="fe8b18d4-c74e-4191-b568-816cd141dbca" />  this one must be unique
