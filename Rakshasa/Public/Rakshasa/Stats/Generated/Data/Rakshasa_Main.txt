@@ -57,3 +57,45 @@ data "VerbalIntent" "Utility"
 data "SpellAnimationIntentType" "Aggressive"
 data "PrepareEffect" "edaae948-7798-45dc-b61d-25d426cad947"
 data "CastEffect" "de2105b8-4a7e-40e6-b7c1-2c62dbe6a644"
+
+
+<!-------Sapphire Tora Spells--------->
+
+
+<!-------Jade Tora Spells--------->
+
+
+<!-------Ruby Tora Spells--------->
+
+
+<!-------Topaz Tora Spells--------->
+
+new entry "Target_Divine_Bite"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_MainHandAttack"
+data "Level" "1"
+data "SpellProperties" "GROUND:DealDamage(3d6, Piercing);GROUND;IF(not Player(context.Source)):ApplyStatus(SELF,AI_HELPER_EXTRAATTACK,100,1);GROUND:DealDamage(2d8,Radiant)"
+data "SpellRoll" "not SavingThrow(Ability.Constitution, SourceSpellDC())"
+data "SpellSuccess" GROUND:DealDamage(3d6, Piercing);IF(not Tagged('FIEND') and not Tagged('UNDEAD')):DealDamage(3d6,Radiant,Magical);IF(Tagged('FIEND')):DealDamage(4d6,Radiant,Magical);IF(Tagged('UNDEAD')):DealDamage(4d6,Radiant,Magical)"
+data "TargetConditions" "not Self() and Character()"
+data "Icon" "Action_Paladin_DivineSmite"
+data "DisplayName" "hf6f8ce39g77beg4674g9c2cg930d3be1b9a0;1"
+data "Description" "hcaf58767g01c2g4c8fg8b3fg015c1b63c183;2"
+data "DescriptionParams" "DealDamage(3d6,Radiant)"
+data "TooltipDamageList" "DealDamage(3d6,Radiant)"
+data "TooltipOnMiss" "4639a885-0f45-4bc9-93c7-1e0c39eb39ec"
+data "TooltipUpcastDescription" "66388a6f-44dd-4c9f-a9e7-910c50e70755"
+data "TooltipUpcastDescriptionParams" "DealDamage(1d8,Radiant)"
+data "CastSound" "Spell_Cast_Damage_Radiant_DivineSmite_L1to3"
+data "TargetSound" "Spell_Impact_Damage_Radiant_DivineSmite_L1to3"
+data "HitCosts" "ActionPoint:1"
+data "SpellAnimation" "f94542d9-a79c-478a-92de-573cead9260e,,;,,;45eb309a-40c4-4093-bbf2-c22f6321553e,,;,,;bd339475-d2b5-46e8-8d0c-9f2ad6a91328,,;,,;,,;,,;,,"
+data "VerbalIntent" "Damage"
+data "SpellStyleGroup" "Class"
+data "SpellFlags" "IsMelee;IsHarmful"
+data "PrepareEffect" "54d12e90-23ce-4f2b-af51-c50be6e9c6a9"
+data "CastEffect" "bced542c-867a-46e2-a2aa-e652db749c61"
+data "TargetEffect" "3a1161a5-ecfe-40f1-ac2a-c75a5e4d147e"
+data "DamageType" "Radiant"
+data "SpellSoundMagnitude" "Big"
