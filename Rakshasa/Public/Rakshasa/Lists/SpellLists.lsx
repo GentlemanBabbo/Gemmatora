@@ -4,12 +4,11 @@
     <region id="SpellLists">
         <node id="root">
             <children>               
-                <node id="SpellList">Spelllist 
+                <node id="SpellList">Spelllist GT Main Lvl1
                     <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value=""/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="75c5978b-4bf2-4813-b070-0bb4bc93aadd"/> the UUID, needs to be unique
+                    <attribute id="Spells" type="LSString" value="Shout_MetalCoating_GT"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="0fbece6f-338f-4427-9edb-3c96a672ef71"/> the UUID, needs to be unique
                 </node>
-
             </children>
         </node>
     </region>
