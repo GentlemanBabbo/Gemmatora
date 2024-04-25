@@ -85,7 +85,7 @@
                   <attribute id="UUID" type="guid" value="b95bd2a0-0a77-499f-9b50-1a6078576c95" />  this one must be unique
           </node>
         <node id="Progression">
-                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
+                  <attribute id="Level" type="uint8" value="7" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Topaz Tora" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
