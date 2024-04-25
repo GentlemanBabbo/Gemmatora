@@ -19,6 +19,11 @@
                     <attribute id="Spells" type="LSString" value="Projectile_BreathofLife"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="2e193d9e-cba2-4483-8783-9f9e2dc8ef60"/> the UUID, needs to be unique
                 </node>
+                <node id="SpellList">Spelllist TT Main Lvl7
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Target_Moonbeam_TT"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="209d5de1-3b45-41f0-939c-dd9af6666cf0"/> the UUID, needs to be unique
+                </node>
             </children>
         </node>
     </region>
