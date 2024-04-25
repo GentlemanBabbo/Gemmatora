@@ -18,7 +18,7 @@
                   <attribute id="Level" type="uint8" value="3" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Gemma Tora" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="FelineFall" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="0b2c0c4d-00d3-4f49-99e4-52c5910dd88d" /> Always use this one for races.lsx, says this progression node is for Main Race
