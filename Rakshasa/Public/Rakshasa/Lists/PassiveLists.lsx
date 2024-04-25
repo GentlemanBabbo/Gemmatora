@@ -8,6 +8,10 @@
                     <attribute id="Passives" type="LSString" value="Passive_RakshasaHidden,GT_TigerTraining,FeyAncestry,GTPassive_CrystalSkin"/> the passive list
                     <attribute id="UUID" type="guid" value="6ec42b84-7ed1-4f51-82c3-eee123c3eb2a"/> the UUID, needs to be unique
                 </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="TT_Resistance_Radiant"/> the passive list
+                    <attribute id="UUID" type="guid" value="a0c5fba0-212f-4a3e-8470-218ad42ee1e0"/> the UUID, needs to be unique
+                </node>
             </children>
         </node>
     </region>
