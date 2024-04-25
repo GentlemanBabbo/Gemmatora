@@ -353,7 +353,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="b737e7d2-a063-4e5f-a9df-d1d3a2df4860" />
+							<attribute id="VisualResource" type="FixedString" value="f4d5ddef-b2a4-4a1a-ab35-a006b78a9bf7" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
