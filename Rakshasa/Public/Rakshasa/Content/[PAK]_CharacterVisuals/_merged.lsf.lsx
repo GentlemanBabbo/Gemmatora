@@ -171,6 +171,11 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="f4b40853-4d5d-422c-ba85-a54e09049276" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
 							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>
@@ -286,7 +291,12 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="16c91840-e655-4cdb-a942-d48780df1865" />
+							<attribute id="VisualResource" type="FixedString" value="f69f2640-0ae3-4876-b6d0-f8ff20d4aadd" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="956c642c-c149-631d-63a3-d9381d8dcff6" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -409,6 +419,11 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="f975dc5b-8bf4-030e-fafd-c7912bcf02e8" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
 							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>
@@ -525,6 +540,11 @@
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
 							<attribute id="VisualResource" type="FixedString" value="fb78413e-f88f-4bb4-954f-d1cbab31693c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="de011251-73af-4e25-9c10-6971d2418d9c" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
