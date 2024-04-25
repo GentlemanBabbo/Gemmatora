@@ -9,10 +9,15 @@
                     <attribute id="Spells" type="LSString" value="Shout_MetalCoating_GT"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="0fbece6f-338f-4427-9edb-3c96a672ef71"/> the UUID, needs to be unique
                 </node>
-                <node id="SpellList">Spelllist GT Main Lvl1
+                <node id="SpellList">Spelllist TT Main Lvl1
                     <attribute id="Comment" type="LSString" value=""/> 
                     <attribute id="Spells" type="LSString" value="Target_Divine_Bite"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="6bb74a08-d0e0-4b0c-8cb2-0f25d2c727c3"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spelllist TT Main Lvl3
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Projectile_BreathofLife"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="2e193d9e-cba2-4483-8783-9f9e2dc8ef60"/> the UUID, needs to be unique
                 </node>
             </children>
         </node>
