@@ -9,7 +9,7 @@
                   <attribute id="Name" type="LSString" value="Gemma Tora" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="Passive_RakshasaHidden;GT_TigerTraining;FeyAncestry;GTPassive_CrystalSkin" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSkills(32155548-7ee2-4ba2-a772-334302fdbab0,2)" />see below for explanation
+                  <attribute id="Selectors" type="LSString" value="AddSpells(0fbece6f-338f-4427-9edb-3c96a672ef71,,,,AlwaysPrepared),SelectSkills(32155548-7ee2-4ba2-a772-334302fdbab0,2)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="0b2c0c4d-00d3-4f49-99e4-52c5910dd88d" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="77a0e845-5cb0-43de-a61c-5a85d17e9162" />  this one must be unique
