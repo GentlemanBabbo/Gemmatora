@@ -1,1 +1,138 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="2" />
+    <region id="MaterialBank">
+		<node id="MaterialBank">
+			<children>
+			<!--Tiger Male Body-->
+				<node id="Resource"> 
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" /> 
+					<attribute id="ID" type="FixedString" value="71ec07c4-2df8-4179-9dbc-9b7e9dc6ed43" /> Generate new UUID
+					<attribute id="MaterialType" type="uint8" value="18" />
+					<attribute id="Name" type="LSString" value="COLORABLE_RAKSHASA_HORNS" />
+                   			<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
+					<children>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="4368207a-d874-41de-8b94-b25fed73288c" /> POINTS TO NORMAL MAP
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="ce3dac95-d7d5-4c22-b831-3c9b39be3402" /> BM, Base map, diffuse
+							<attribute id="ParameterName" type="FixedString" value="basecolor" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="7d2d6828-04a8-4128-9136-790e1b57c5d2" /> Physical map
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="7d2d6828-04a8-4128-9136-790e1b57c5d2" />
+					<attribute id="Name" type="LSString" value="Rakshasa_TigerHorns_PM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_RAKSHASA_Horns/Horns_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Rakshasa_TigerHorns_PM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="ce3dac95-d7d5-4c22-b831-3c9b39be3402" />
+					<attribute id="Name" type="LSString" value="Rakshasa_TigerHorns_BM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_RAKSHASA_Horns/Horns_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Rakshasa_TigerHorns_BM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="4368207a-d874-41de-8b94-b25fed73288c" />
+					<attribute id="Name" type="LSString" value="Rakshasa_TigerHorns_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_RAKSHASA_Horns/Horns_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Rakshasa_TigerHorns_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+				</node>
+			</children>
+		</node>
+	</region>   
+	<region id="VisualBank"> <!-- you only need VisualBank if you don't plan on making custom textures or materials  -->
+            <node id="VisualBank">
+                <children>
+                    <node id="Resource">
+                        <attribute id="AttachBone" type="FixedString" value="" />
+                        <attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+                        <attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+                        <attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+                        <attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+                        <attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+                        <attribute id="ClothColliderResourceID" type="FixedString" value="" />
+                        <attribute id="HairType" type="uint8" value="0" />
+                        <attribute id="ID" type="FixedString" value="f65b2050-f6db-4f53-bc7d-48ac5c3fd8b0" />
+                        <!-- ^ Make a new UUID and make sure it matches VisualResourceID in CharacterCreationAppearanceVisuals. -->
+                        <attribute id="Initialized" type="bool" value="True" />
+                        <attribute id="Localized" type="bool" value="False" />
+                        <attribute id="MaterialType" type="uint8" value="0" />
+                        <attribute id="Name" type="LSString" value="Rakshasa_HORN_C" />
+                        <!-- ^ Name of your GR2. -->
+                        <attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+                        <!-- ^ Change to false if not auto-snap. -->
+                        <attribute id="Radius" type="float" value="0.2880241" />
+                        <attribute id="ScalpMaterialId" type="FixedString" value="" />
+                        <!-- ^ Use from a scalp you like. -->
+                        <attribute id="SkeletonResource" type="FixedString" value="" />
+                        <!-- ^ If the hair you're referencing uses physics, copy the SkeletonResource ID here. -->
+                        <attribute id="SkeletonSlot" type="FixedString" value="" />
+                        <attribute id="Slot" type="FixedString" value="Horns" />
+                        <!-- ^ This should stay as Hair... unless you're using my template to make horns or something. No judgement. :) -->
+                        <attribute id="SoftbodyResourceID" type="FixedString" value="" />
+                        <attribute id="SourceFile" type="LSString" value="Generated/Public/Rakshasa/[PAK]_RAKSHASA_Horns/Rakshasa_HORN_C.GR2" />
+                        <!-- ^ Make sure this matches your folder structure. -->
+                        <attribute id="SupportsVertexColorMask" type="bool" value="False" />
+                        <attribute id="Template" type="FixedString" value="Generated/Public/Rakshasa/[PAK]_RAKSHASA_Horns/Rakshasa_HORN_C.Dummy_Root.0" />
+                        <!-- ^ Make sure this matches your folder structure, but with .Dummy_Root.0 at the end instead. -->
+                        <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+                        <children>
+                            <node id="Base" />
+                            <node id="Objects">
+                                <attribute id="LOD" type="uint8" value="0" />
+                                <attribute id="MaterialID" type="FixedString" value="71ec07c4-2df8-4179-9dbc-9b7e9dc6ed43" />
+                                <!-- ^ Use from a hair material you like. -->
+                                <attribute id="ObjectID" type="FixedString" value="Rakshasa_HORN_C.GR2.Horns.0" />
+                                <!-- ^ Make sure this matches your GR2 name. The number at the end needs to be increased by 1 for each new Objects node you create. -->
+                                <attribute id="Physics" type="FixedString" value="" />
+                                <attribute id="Slot" type="FixedString" value="" />
+                            </node>
+                        </children>
+                    </node>
+		</children>
+            </node>
+    </region>
+</save>
