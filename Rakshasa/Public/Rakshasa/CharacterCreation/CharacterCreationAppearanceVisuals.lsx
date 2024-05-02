@@ -127,7 +127,7 @@ MALE
 							<attribute id="IconIdOverride" type="FixedString" value="0_Hair_cb44843d-2cb5-4a25-b144-b786843fa065"/>
                     		    <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
 		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-		                    <attribute id="UUID" type="guid" value="b384047a-3d59-464c-8ab3-890498133370"/>
+		                    <attribute id="UUID" type="guid" value="8df3b025-6058-4945-9bfa-3980bce0472b"/>
 		                    <attribute id="VisualResource" type="guid" value="5ec873bb-3c93-40ac-b525-ff653329c617"/>
 		                </node>
 		                <node id="CharacterCreationAppearanceVisual">
@@ -137,7 +137,7 @@ MALE
 							<attribute id="IconIdOverride" type="FixedString" value="0_Hair_50efab2e-9e10-4924-9ee6-bfc36d02ed14"/>
                     		    <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
 		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-		                    <attribute id="UUID" type="guid" value="522541b9-1d1a-4a0d-b1c0-98cd0de3c318"/>
+		                    <attribute id="UUID" type="guid" value="93fbdb2a-642b-4e5e-8b94-03e7d5c06d05"/>
 		                    <attribute id="VisualResource" type="guid" value="4590b3d6-e37f-4bd7-a861-674a0287475f"/>
 		                </node>
 		                <node id="CharacterCreationAppearanceVisual">
@@ -147,7 +147,7 @@ MALE
 							<attribute id="IconIdOverride" type="FixedString" value="0_Hair_10ad1435-c7c3-4db8-a015-f5863218ffb2"/>
                     		    <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
 		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-		                    <attribute id="UUID" type="guid" value="dd1d38be-43fe-43e5-ad13-452b3f8f2b27"/>
+		                    <attribute id="UUID" type="guid" value="0f683d6d-355a-4060-9dc3-54f1df26d935"/>
 		                    <attribute id="VisualResource" type="guid" value="0287edb6-f81f-4b3f-80cd-2a664389c974"/>
 		                </node>
 FEMALE
@@ -158,7 +158,7 @@ FEMALE
 							<attribute id="IconIdOverride" type="FixedString" value="0_Hair_cb44843d-2cb5-4a25-b144-b786843fa065"/>
                     		    <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
 		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-		                    <attribute id="UUID" type="guid" value="b384047a-3d59-464c-8ab3-890498133370"/>
+		                    <attribute id="UUID" type="guid" value="ef31226b-2f38-4d73-be3b-df8ecb5fe626"/>
 		                    <attribute id="VisualResource" type="guid" value="5ec873bb-3c93-40ac-b525-ff653329c617"/>
 		                </node>
 		                <node id="CharacterCreationAppearanceVisual">
@@ -168,7 +168,7 @@ FEMALE
 							<attribute id="IconIdOverride" type="FixedString" value="0_Hair_50efab2e-9e10-4924-9ee6-bfc36d02ed14"/>
                     		    <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
 		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-		                    <attribute id="UUID" type="guid" value="522541b9-1d1a-4a0d-b1c0-98cd0de3c318"/>
+		                    <attribute id="UUID" type="guid" value="f8da40a0-e575-455d-85e3-d2b4deafe06c"/>
 		                    <attribute id="VisualResource" type="guid" value="4590b3d6-e37f-4bd7-a861-674a0287475f"/>
 		                </node>
 		                <node id="CharacterCreationAppearanceVisual">
@@ -178,7 +178,7 @@ FEMALE
 							<attribute id="IconIdOverride" type="FixedString" value="0_Hair_10ad1435-c7c3-4db8-a015-f5863218ffb2"/>
                     		    <attribute id="RaceUUID" type="guid" value="ad5690c9-056e-4aff-a928-1cb1a1d6f474"/>
 		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-		                    <attribute id="UUID" type="guid" value="dd1d38be-43fe-43e5-ad13-452b3f8f2b27"/>
+		                    <attribute id="UUID" type="guid" value="fcef2f0a-f62c-4180-bdec-d4fb85788ea1"/>
 		                    <attribute id="VisualResource" type="guid" value="0287edb6-f81f-4b3f-80cd-2a664389c974"/>
 		                </node>
         <!--Tails-->
