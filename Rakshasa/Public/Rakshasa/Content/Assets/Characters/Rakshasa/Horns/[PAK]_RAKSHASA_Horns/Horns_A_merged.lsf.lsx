@@ -125,7 +125,7 @@
                                 <attribute id="LOD" type="uint8" value="0" />
                                 <attribute id="MaterialID" type="FixedString" value="71ec07c4-2df8-4179-9dbc-9b7e9dc6ed43" />
                                 <!-- ^ Use from a hair material you like. -->
-                                <attribute id="ObjectID" type="FixedString" value="Rakshasa_HORN_A.GR2.8_ORTHON_Horns_A_Mesh.0" />
+                                <attribute id="ObjectID" type="FixedString" value="Rakshasa_HORN_A.8_ORTHON_Horns_A_Mesh.0" />
                                 <!-- ^ Make sure this matches your GR2 name. The number at the end needs to be increased by 1 for each new Objects node you create. -->
                                 <attribute id="Physics" type="FixedString" value="" />
                                 <attribute id="Slot" type="FixedString" value="" />
